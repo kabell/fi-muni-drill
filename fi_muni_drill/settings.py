@@ -16,6 +16,7 @@ DATABASES = {
         'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
     }
 }
+
 # Hosts/domain names that are valid for this site; required if DEBUG is False
 # See https://docs.djangoproject.com/en/1.5/ref/settings/#allowed-hosts
 ALLOWED_HOSTS = []
@@ -65,6 +66,9 @@ STATIC_URL = 'static/'
 STATICFILES_DIRS = (
     'static/',
 )
+
+
+
 
 # Make this unique, and don't share it with anybody.
 SECRET_KEY = 'mb%bcyakv!b9jz&dzy8io0458x+i2l(+k%ql=#^=&u5ujj&tw_'
