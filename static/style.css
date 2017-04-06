@@ -1,0 +1,55 @@
+body {
+   padding-top: 10px;
+   margin-left: 50px;
+   margin-right:50px;
+   
+}
+
+.otazka {
+    
+    /*margin-left: 100px;*/
+    
+    
+}
+
+.answer{
+    padding: 15 10 15 10;
+    color: black;
+    text-decoration: none;
+    border-style: solid;
+    border-width: 1px;
+    margin: 2px 2px 2px 2px;
+    border-top-left-radius: 1em;
+    border-top-right-radius: 1em;
+    border-bottom-left-radius: 1em;
+    border-bottom-right-radius: 1em;
+    
+}
+
+.nalavo{
+    float: left;    
+}
+.napravo{
+    float: right;    
+}
+
+a:link{
+    text-decoration:none;
+}
+
+table {
+    margin-top:30px;
+    
+}
+
+.center{
+    float:left;
+    width:70%;
+    
+}
+
+.left{
+    float:left;
+    margin-right:50px;
+    
+}

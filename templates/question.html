@@ -1,0 +1,71 @@
+<html>
+    <head>
+    {% load staticfiles %}
+    <base href="{{ rootURL }}">
+    <link href="{% static "bootstrap/css/bootstrap.min.css" %}" rel="stylesheet"> 
+    <link href="{% static "style.css" %}" rel="stylesheet">
+    <link rel="shortcut icon" href="{% static "kabells-testing.png" %}" />
+    
+    <title>FI MUNI drill</title>
+    </head>
+    <body>
+    
+    <a href = "clear/{{ filename }}/{{ id }}">Vymazať štatistiky</a></br>
+
+    {% for file_id in zle_otazky %}
+    <a  style="float:left; margin-top:5px; margin-bottom:5px;" href="question/{{ filename }}/{{ file_id }}"><div class='answer'>{{ file_id }}</div></a>
+    {% endfor %}
+    
+<table border='1' width='100%'>
+<tr>
+<td>
+Správne {{ spravne }} z {{ celkovo }}
+</td>
+<td>
+Úspešnosť {{ uspesnost }}%<br/>
+</td>
+<td>
+{{ joke }}
+</td>
+</tr>
+</table>
+<br/>
+<div class='left'>
+        {% for file in files %}
+    <a href = "question/{{ file }}/1">{{ file }}</a><br/>
+    {% endfor %}
+</div>
+<div class='center'>
+<div class='otazka'>
+{% if index %}
+Vitaj v tomto drille.<br/>
+V menu vľavo si vieš vybrať sadu otázok.
+Veľa šťastia.
+{% else %}
+<b>Otázka {{ id }} z {{ questions_count }}</b><br/>
+{% autoescape off %}
+{{ question.task }}<br/>
+
+
+{% for ans in question.answers %}
+    <a href = "validate/{{ filename }}/{{ id }}/{{ poradie }}/{{ ans.id }}" >
+        <div class="answer" style="background-color:{{ ans.color }}; margin-top:20px;">
+        {{  ans.answer }}
+        </div>
+    </a>
+{% endfor %}
+{% endautoescape %}
+</div>
+<br/>
+
+{% if prev != id %}
+<a class='nalavo answer' href="question/{{ filename }}/{{ prev }}" >Predchádzajúca otázka</a>
+{% endif %}
+{% if next != id %}
+<a class='napravo answer' href="question/{{ filename }}/{{ next }}"  >Ďalšia otázka</a>
+{% endif %}
+{% endif %}
+</div>
+
+</body>
+</html>
