@@ -14,12 +14,20 @@ class Questions():
 
         with open(settings.BASE_DIR+'/data/questions_'+path+'.json', encoding='utf-8') as f:
             data = json.load(f)
+            multi_answers = ['PV157', 'PV157_midterm','PV119']
+            multi = False
+            if path in multi_answers:
+                multi = True
             for q in data:
                 answers = []
+                correct = 0
                 for a in q['answers']:
+                    correct += int(a['right']);
                     answers.append(Answer(a['body'],a['right'],len(answers)))
-                self.questions.append(Question(q['name'],answers))
-                                
+                if correct>1:
+                    multi = True
+                self.questions.append(Question(q['name'],answers,multi))
+
 
 
     def getquestion(self, id):
@@ -28,11 +36,3 @@ class Questions():
 
     def numquestions(self):
         return len(self.questions)
-
-
-
-
-
-
-
-

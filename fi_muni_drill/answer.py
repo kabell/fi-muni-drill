@@ -5,16 +5,17 @@ class Answer():
     def __init__(self, answer,correct,id):
         self.id = id
         self.answer = answer
-        self.color = 'white'
-        
+        self.color = 'unselected'
+
         self.correct = (correct=='true' or correct==True)
 
 
     def setcolor(self, color):
         self.color = color
-        
+
     def validate(self,selected):
-        
+        print (selected, self.correct)
+
         if self.correct:
             self.setcolor(Color.OK)
             if selected:
@@ -25,5 +26,3 @@ class Answer():
             self.setcolor(Color.BAD)
             return 1
         return 0
-        
-            

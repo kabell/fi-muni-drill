@@ -2,14 +2,14 @@ body {
    padding-top: 10px;
    margin-left: 50px;
    margin-right:50px;
-   
+
 }
 
 .otazka {
-    
+
     /*margin-left: 100px;*/
-    
-    
+
+
 }
 
 .answer{
@@ -23,14 +23,14 @@ body {
     border-top-right-radius: 1em;
     border-bottom-left-radius: 1em;
     border-bottom-right-radius: 1em;
-    
+
 }
 
 .nalavo{
-    float: left;    
+    float: left;
 }
 .napravo{
-    float: right;    
+    float: right;
 }
 
 a:link{
@@ -39,17 +39,44 @@ a:link{
 
 table {
     margin-top:30px;
-    
+
 }
 
 .center{
     float:left;
     width:70%;
-    
+
 }
 
 .left{
     float:left;
     margin-right:50px;
-    
+
+}
+
+.correct{
+    margin-top:20px;
+    background-color:#33FF33;
+}
+
+.incorrect{
+    margin-top:20px;
+    background-color:#FF3333;
+}
+
+.selected{
+    margin-top:20px;
+    background-color:yellow;
+}
+
+.notselected{
+    margin-top:20px;
+    background-color:white;
+}
+
+.submit{
+    margin-left:80%;
+    margin-top:20px;
+    text-align: center;
+    background-color: cyan;
 }

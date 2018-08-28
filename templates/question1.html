@@ -1,0 +1,76 @@
+{% include 'header.html' %}
+    <div class="container main">
+        <div class="row">
+            <div class="col-sm-9">
+                <div class="row">
+                    <div class="col-md-5 hidden-xs">
+                        <h5>Otázka {{ id }} z {{ questions_count }}
+                             {% if question.multi %} - Viac ako jedna odpoveď môže byť správna {% endif %}
+                         </h5>
+                    </div>
+                    <div class="col-md-3 text-right hidden-xs" style="margin-top:7px">
+                        Správne {{ spravne }} z {{ celkovo }}
+                    </div>
+                    <div class="col-md-4" style="margin-top:7px">
+                        <div class="progress">
+                          <div class="progress-bar {{ uspestnost_class }}" style="width: {{ uspesnost }}%">{{ uspesnost }}%</div>
+                        </div>
+                    </div>
+                </div>
+                {% autoescape off %}
+                <div class="row">
+                    <div class="col-sm-12">
+                        <h4><b>{{ question.task }}</b></h4>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-12">
+                        {% if question.multi %}
+                            <form id="answers-form" action="validate/{{ filename }}/{{ id }}/{{ poradie }}/">
+                                {% for ans in question.answers %}
+                                    <div data-answer-id='{{ ans.id }}' class="answer {{ ans.color }} rounded">{{ ans.answer }}</div>
+
+                                {% endfor %}
+                            <div class="text-center">
+                                <div class='btn btn-primary rounded' id="submit">Vyhodnotiť</div>
+                            </div>
+                            </form>
+
+                        {% else %}
+                        {% for ans in question.answers %}
+                                <a href = "validate/{{ filename }}/{{ id }}/{{ poradie }}/{{ ans.id }}"><div class="answer {{ ans.color }} rounded">{{ ans.answer }}</div></a>
+                        {% endfor %}
+                        {% endif %}
+                    </div>
+                </div>
+                {% endautoescape %}
+                <div class="row">
+                    <div class="col-sm-4">
+                        <a class='btn btn-primary answer rounded' href="question/{{ filename }}/{{ prev }}" >Predchádzajúca</a>
+                    </div>
+                    <div class="col-sm-4"></div>
+                    <div class="col-sm-4">
+                        <a class='btn btn-primary answer rounded' href="question/{{ filename }}/{{ next }}"  >Ďalšia</a>
+
+                    </div>
+
+                </div>
+            </div>
+          <div class="col-sm-3">
+              <div class="row">
+                  <div class="col-sm-12">
+                    <a class="btn btn-primary rounded" href = "clear/{{ filename }}/{{ id }}">Vymazať štatistiky</a>
+                  </div>
+              </div>
+              <div class="row">
+                <div class="col-sm-12">
+                    Zle zodpovedané otázky:<br/>
+                    {% for file_id in zle_otazky %}
+                        <a  class="btn btn-primary question rounded" href="question/{{ filename }}/{{ file_id }}">{{ file_id }}</a>
+                    {% endfor %}
+                </div>
+              </div>
+          </div>
+        </div>
+    </div>
+{% include 'footer.html' %}

@@ -267,7 +267,7 @@
 	{"body":"je v konjunktivní normální formě","right":false},
 	{"body":"neni v normální formě","right":false},
 	{"body":"je v dizjunktivní normální formě","right":true}]},
-{"name":"Formule p ⋁ ¬(q ⋀ r)","answers":[
+{"name":"Formule p ⋁  ¬ (q ⋀ r)","answers":[
 	{"body":"je v dizjunktivní normální formě","right":false},
 	{"body":"není v normální formě","right":true},
 	{"body":"je v konjunktivní normální formě","right":false}]},

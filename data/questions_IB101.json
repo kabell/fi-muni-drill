@@ -1177,11 +1177,11 @@
     "answers": [
       {
         "body": "není v úplné normální formě",
-        "right": true
+        "right": false
       },
       {
         "body": "je v úplné dizjunktivní normální formě",
-        "right": false
+        "right": true
       },
       {
         "body": "je v úplné konjunktivní normální formě",

@@ -3,11 +3,11 @@
     "name": "Je následující tvrzení pravdivé? \"hlavičkový soubor vkládáme do zdrojového kódu využívajícího jeho funkce pomocí direktivy #include\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -16,11 +16,11 @@
     "name": "Je následující tvrzení pravdivé? \"Datový typ struct vytváří složený datový typ skládající se z několika položek, které mohou mít různý datový typ\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -29,11 +29,11 @@
     "name": "Je následující tvrzení pravdivé? \"Makro assert() se využívá při ladění pro detekci a lokalizaci porušení podmínek, které by měli vždy platit\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -42,11 +42,11 @@
     "name": "Je následující tvrzení pravdivé? \"Funkce main má druhý argument typu char** se jménem argv. Tento argument obsahuje počet argumentů zadaných na příkazové řádce při spuštění programu.\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -55,11 +55,11 @@
     "name": "Je následující tvrzení pravdivé? \"Podmínky preprocesoru jsou vyhodnocovány za běhu programu\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -68,11 +68,11 @@
     "name": "Je následující tvrzení pravdivé? \"Klíčové slovo register doporučuje překladači, aby umístil proměnnou do registru procesoru a optimalizoval tak rychlost přístupu k ní\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -81,11 +81,11 @@
     "name": "Je následující tvrzení pro jazyk C pravdivé? \"Norma POSIX poskytuje rozšíření standardní knihovny jazyka C o funkce pro práci s vlákny\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -94,11 +94,11 @@
     "name": "Předpokládejte pole deklarované jako int array[10]; Je následující tvrzení pravdivé? \"výraz array[3] vrací hodnotu třetího prvku pole \"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -107,11 +107,11 @@
     "name": "Je následující tvrzení pro jazyk C pravdivé? \"Mezi základní datové typy patří int, float, double a char\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -120,11 +120,11 @@
     "name": "Je následující tvrzení pravdivé? \"Po plytkém zkopírování (operátor =) struktury obsahující ukazatel dojde k automatické alokaci paměti, na kterou ukazatel ukazuje.\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -133,11 +133,11 @@
     "name": "Je následující tvrzení pravdivé? \"Rychlost funkce memcpy() je vždy stejná jako kopírování položek v cyklu for \"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -146,11 +146,11 @@
     "name": "Je následující tvrzení pro jazyk C pravdivé? \"Mezi základní datové typy patří int, real, float a char\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -159,11 +159,11 @@
     "name": "Je následující tvrzení pravdivé? \"Jazyk C nemá podporu pro zpracování širokých znaků např. abecedy unicode.\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -172,11 +172,11 @@
     "name": "Je následující tvrzení pro jazyk C pravdivé? \"Funkce popen() pro spouštění příkazů shellu se neliší od funkce system()\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -185,11 +185,11 @@
     "name": "Předpokládejte pole deklarované jako int array[10]; Je následující tvrzení pravdivé? \"*(array + 2) vrací hodnotu třetího prvku pole\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -198,11 +198,11 @@
     "name": "Je následující tvrzení pravdivé? \"Klíčové slovo volatile u proměnné značí možnost její změny i mimo náš zdrojový kód (např. přerušením)\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -211,11 +211,11 @@
     "name": "Je následující tvrzení pravdivé? \"Preprocesor provádí syntaktickou analýzu kódu jazyka C a odhalí porušení pravidel typového systému jazyka C \"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -224,11 +224,11 @@
     "name": "Je následující tvrzení pravdivé? \"Funkce main má třetí argument typu char** se jménem envp. Tento argument obsahuje (v případě překladače gcc) proměnné prostředí ve formátu jmeno=hodnota.\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -237,11 +237,11 @@
     "name": "Je následující tvrzení pravdivé? \"Struktura spojovaného seznamu paměťově úspornější než pole.\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -250,11 +250,11 @@
     "name": "Je následující tvrzení pro jazyk C pravdivé? \"Jméno proměnné může začínat číslicí \"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -263,11 +263,11 @@
     "name": "Je následující tvrzení pravdivé? \"Hodnoty vypočtené ve funkci lze předávat pouze návratovou hodnotou nebo přes globální proměnné\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -276,11 +276,11 @@
     "name": "Je následující tvrzení pravdivé? \"POSIX je plně implementován i na operačních systémech, které vycházejí z MS Windows NT (MS Windows NT 3.51 - MS Windows 8.1 resp. MS Windows 2012 Server).\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -289,11 +289,11 @@
     "name": "Je následující tvrzení pravdivé? \"Strict aliasing je zaveden z důvodu zvětšení robustnosti programu\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -302,11 +302,11 @@
     "name": "Je následující tvrzení pravdivé? \"Klíčové slovo goto se nedoporučuje používat, neboť typicky vede k méně čitelnému a provázanějšímu kódu \"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -315,11 +315,11 @@
     "name": "Je následující tvrzení pravdivé? \"pole musí být vždy pravoúhlá, tj. počet prvků v řádku je pro všechny řádky stejný\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -328,11 +328,11 @@
     "name": "Je následující tvrzení pravdivé? \"Funkce time() vrací čas s přesností na 1 sekundu\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -341,11 +341,11 @@
     "name": "Je následující tvrzení pravdivé? \"Unit testy poskytují robustní specifikaci očekávaného chování komponenty\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -354,11 +354,11 @@
     "name": "Je následující tvrzení pravdivé? \"Proměnná typu funkční ukazatel nespecifikuje jméno funkce, jejíž adresu bude obsahovat\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -367,11 +367,11 @@
     "name": "Je následující tvrzení pro jazyk C pravdivé? \"Operátor přiřazení = má nízkou prioritu vyhodnocení\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -380,11 +380,11 @@
     "name": "Je následující tvrzení pravdivé? \"zápis mimo alokované pole nemusí způsobit výjimku, může ale modifikovat ostatní proměnné a jiná data\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -393,11 +393,11 @@
     "name": "Je následující tvrzení pravdivé? \"Pokud chci programu předávat jako argumenty na příkazové řádce jméno uživatele a jeho věk, funkce main bude deklarovaná jako main(char *jmeno, int vek);\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -406,11 +406,11 @@
     "name": "Je následující tvrzení pravdivé? \"Klíčové slovo static způsobí zachování poslední hodnoty proměnné i pokud je opuštěn blok s její definicí\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -419,11 +419,11 @@
     "name": "Je následující tvrzení pravdivé? \"pokud není v hlavičkovém souboru definice funkce, je nutné ji poskytnout v samostatném souboru\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -432,11 +432,11 @@
     "name": "Je následující tvrzení pro jazyk C pravdivé? \"Norma POSIX poskytuje rozšíření standardní knihovny jazyka C o funkce pro procházení adresářů a zjištění obsažených souborů\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -445,11 +445,11 @@
     "name": "Je následující tvrzení pravdivé? \"Položkou struktury může být ukazatel.\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -458,11 +458,11 @@
     "name": "Je následující tvrzení pravdivé? \"textový řetězec v C je pole znaků ukončených bajtem s hodnotou 0\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -471,11 +471,11 @@
     "name": "Je následující tvrzení pravdivé? \"Klíčové slovo static způsobí zachování poslední hodnoty proměnné i mezi různými spuštěními programu\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -484,11 +484,11 @@
     "name": "Je následující tvrzení pravdivé? \"Ukazatel nelze přetypovat. Jakmile je jednou v lokálním kontextu vytvořen, nelze ho v tomto kontextu měnit.\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -497,11 +497,11 @@
     "name": "Je následující tvrzení pravdivé? \"Funkce může mít více argumentů\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -510,11 +510,11 @@
     "name": "Je následující tvrzení pro jazyk C pravdivé? \"Pořadí vyhodnocení výrazu nelze ovlivnit použitím závorek\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -523,11 +523,11 @@
     "name": "Je následující tvrzení pravdivé? \"Funkce pro práci s pamětí (memXXX) lze při jednom volání použít pouze na souvislou část paměti u každého z argumentů\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -536,11 +536,11 @@
     "name": "Je následující tvrzení pro jazyk C pravdivé? \"Při zavolání funkce system() se čeká na dokončení jím spuštěného příkazu.\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -549,11 +549,11 @@
     "name": "Je následující tvrzení pravdivé? \"Integrační testy testují korektnost spolupráce několik komponent mezi sebou\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -562,11 +562,11 @@
     "name": "Je následující tvrzení pravdivé? \"Makro assert() je v Release režimu (definováno makro NDEBUG) odstraněno včetně vyhodnocované podmínky\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -575,11 +575,11 @@
     "name": "Je následující tvrzení pravdivé? \"Typový systém podporuje abstrakci reprezentace čísel\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -588,11 +588,11 @@
     "name": "Je následující tvrzení pravdivé? \"Klíčové slovo auto je defaultní paměťová třída pro lokální proměnné\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -601,11 +601,11 @@
     "name": "Je následující tvrzení pravdivé? \"Pokud implementujeme dvojrozměrné pole pomocí jednorozměrného pole, tak bude taková implementace vždy vyžadovat více paměťového prostoru než přímá deklarace pole jako dvojrozměrné.\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -614,11 +614,11 @@
     "name": "Je následující tvrzení pravdivé? \"Hluboká kopie struktury je nutná jen v připadě, že daná struktura obsahuje položku typu ukazatel.\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -627,11 +627,11 @@
     "name": "Je následující tvrzení pro jazyk C pravdivé? \"Proměnné je nutné před prvním použitím deklarovat společně s datovým typem\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -640,11 +640,11 @@
     "name": "Je následující tvrzení pravdivé? \"Regresní testy testují opakování výskytu dříve nalezené (a opravené) chyby\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -653,11 +653,11 @@
     "name": "Je následující tvrzení pro jazyk C pravdivé? \"Operátor sekvenčního provedení ponechává výsledek všech výrazů\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -666,11 +666,11 @@
     "name": "Je následující tvrzení pravdivé? \"Klíčové slovo register je defaultní paměťová třída pro lokální proměnné\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -679,11 +679,11 @@
     "name": "Je následující tvrzení pravdivé? \"Pokud chceme získat hodnotu z rozsahu 0 až 37 včetně, použijeme volání rand() % 38\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -692,11 +692,11 @@
     "name": "Je následující tvrzení pravdivé? \"Pokud nedojde ke zápisu dat do paměti, tak lze typovou konverzi na bitové úrovni změnit na předchozí datový typ\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -705,11 +705,11 @@
     "name": "Je následující tvrzení pravdivé? \"Pole automaticky mění svoji velikost tak, aby do ní bylo možné umístit indexovaný prvek\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -718,11 +718,11 @@
     "name": "Je následující tvrzení pravdivé? \"Jednotlivé položky v datovém typu struct jsou umístěny v paměti na stejné počáteční adrese\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -731,11 +731,11 @@
     "name": "Je následující tvrzení pravdivé? \"Klíčové slovo auto u proměnné značí její alokaci v tzv. automatických registrech\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -744,11 +744,11 @@
     "name": "Předpokládejte pole deklarované jako int array[10]; Je následující tvrzení pravdivé? \"Výraz array + 1 vrací hodnotu druhého prvku pole array \"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -757,11 +757,11 @@
     "name": "Je následující tvrzení pravdivé? \"Zápis (*promenna).energy je ekvivalentní zápisu promenna->energy v případě, že proměnná je ukazatelového typu struct a obsahuje položku energy.\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -770,11 +770,11 @@
     "name": "Je následující tvrzení pravdivé? \"Funkci lze deklarovat i definovat zároveň\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -783,11 +783,11 @@
     "name": "Je následující tvrzení pro jazyk C pravdivé? \"Jazyk C poskytuje v normě C99 funkce pro práci s vlákny\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -796,11 +796,11 @@
     "name": "Je následující tvrzení pro jazyk C pravdivé? \"Bitový operátor & vrací na dané bitové pozici hodnotu 1, pokud jsou odpovídající bity obou argumentů rovny 1\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -809,11 +809,11 @@
     "name": "Je následující tvrzení pravdivé? \"Standardní knihovna jazyka C neobsahuje funkci pro žádný řadící algoritmus, je nutné využít externích knihoven\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -822,11 +822,11 @@
     "name": "Je následující tvrzení pravdivé? \"Makro assert() se nepoužívá pro ošetřování korektnosti uživatelského vstupu\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -835,11 +835,11 @@
     "name": "Je následující tvrzení pravdivé? \"Pole může mít velikost pro alokaci zadánu až za běhu programu\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -848,11 +848,11 @@
     "name": "Je následující tvrzení pro jazyk C pravdivé? \"Jazyk C poskytuje v normě C99 funkce pro procházení adresářů a zjištění obsažených souborů\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -861,11 +861,11 @@
     "name": "Je následující tvrzení pravdivé? \"pro uchování širokých znaků např. abecedy unicode lze využít datový typ wchar_t\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -874,11 +874,11 @@
     "name": "Je následující tvrzení pravdivé? \"Preprocesor umožňuje provádět podmíněný překlad\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -887,11 +887,11 @@
     "name": "Je následující tvrzení pravdivé? \"Proměnné typu struct nelze dynamicky alokovat\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -900,11 +900,11 @@
     "name": "Je následující tvrzení pravdivé? \"Pomocí operátoru & lze získat adresu proměnné\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -913,11 +913,11 @@
     "name": "Je následující tvrzení pro jazyk C pravdivé? \"Všechny nenulové hodnoty jsou v logických výrazech považovány za PRAVDU (TRUE)\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -926,11 +926,11 @@
     "name": "Je následující tvrzení pravdivé? \"Preprocesor neprovádí syntaktickou analýzu kódu jazyka C \"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -939,11 +939,11 @@
     "name": "Je následující tvrzení pro jazyk C pravdivé? \"Norma POSIX poskytuje rozšíření standardní knihovny jazyka C o funkce pro správu běžících procesů\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -952,11 +952,11 @@
     "name": "Je následující tvrzení pravdivé? \"zřetězení řetězců se v C realizuje pomocí operátoru +\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -965,11 +965,11 @@
     "name": "Je následující tvrzení pravdivé? \"Funkce getenv() se používá pro zjištění aktuálně běžícího externího příkazu nebo programu\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -978,11 +978,11 @@
     "name": "Je následující tvrzení pravdivé? \"V jazyce C se všechny konverze typů dějí plně automaticky.\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -991,11 +991,11 @@
     "name": "Je následující tvrzení pravdivé? \"Pokud aplikujeme operátor = na dvě proměnné typu char*, tak dojde ke zkopírování jejich obsahu včetně koncové nuly.\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -1004,11 +1004,11 @@
     "name": "Je následující tvrzení pro jazyk C pravdivé? \"Funkce popen() umožňuje asynchronně spustit příkaz shellu a komunikovat s ním pomocí roury (pipe)\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -1017,11 +1017,11 @@
     "name": "Je následující tvrzení pravdivé? \"Typ hodnoty určuje způsob, jakým bude hodnota interpretována\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -1030,11 +1030,11 @@
     "name": "Je následující tvrzení pro jazyk C pravdivé? \"Po skoku na klauzuli case se pokračuje ve vykonávání kódu až do dosažení příkazu break.\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -1043,11 +1043,11 @@
     "name": "Je následující tvrzení pravdivé? \"Pomocí operátoru * lze získat adresu proměnné\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -1056,11 +1056,11 @@
     "name": "Je následující tvrzení pravdivé? \"Datový typ enum nelze použít jako výčet pojmenovaných číselných konstant čísel s desetinnou čárkou\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -1069,11 +1069,11 @@
     "name": "Je následující tvrzení pravdivé? \"Adresu uloženou v proměné typu funkční ukazatel lze za běhu programu měnit\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -1082,11 +1082,11 @@
     "name": "Je následující tvrzení pravdivé? \"Klíčové slovo extern informuje překladač, že definice proměnné nebo funkce se nachází v jiném zdrojovém souboru\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -1095,11 +1095,11 @@
     "name": "Je následující tvrzení pravdivé? \"Velikost struktury je vždy rovna součtu velikostí jednotlivých položek.\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -1108,11 +1108,11 @@
     "name": "Je následující tvrzení pravdivé? \"Unit testing používá sadu automaticky spouštěných testů pro chování celého programu\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -1121,11 +1121,11 @@
     "name": "Je následující tvrzení pravdivé? \"Typový systém zlepšuje možnosti optimalizace\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -1134,11 +1134,11 @@
     "name": "Je následující tvrzení pravdivé? \"Klíčové slovo extern je defaultní volba pro globální proměnné\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -1147,11 +1147,11 @@
     "name": "Je následující tvrzení pro jazyk C pravdivé? \"Velikost datového typu lze zjistit pomocí operátoru sizeof()\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -1160,11 +1160,11 @@
     "name": "Je následující tvrzení pravdivé? \"s řetězci lze manipulovat s využitím ukazatelové aritmetiky\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -1173,11 +1173,11 @@
     "name": "Je následující tvrzení pravdivé? \"Pro určení toho, zda se jedná o soubor nebo adresář, lze na všech platformách použít položku d_type struktury dirent.\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -1186,11 +1186,11 @@
     "name": "Předpokládejte pole deklarované jako int array[10]; Je následující tvrzení pravdivé? \"výraz array++ vrací adresu prvního prvku pole\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -1199,11 +1199,11 @@
     "name": "Je následující tvrzení pravdivé? \"Typová konverze na bitové úrovni může být ztrátová, pokud přetypováváme z typu s větším rozsahem na typ s měnším rozsahem\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -1212,11 +1212,11 @@
     "name": "Je následující tvrzení pravdivé? \"Implementace těla funkce je ve složených závorkách\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -1225,11 +1225,11 @@
     "name": "Je následující tvrzení pravdivé? \"Pole hodnot je paměťově úspornější než struktura spojovaného seznamu.\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -1238,11 +1238,11 @@
     "name": "Je následující tvrzení pravdivé? \"Proměnnou typu const je nutné inicializovat při deklaraci.\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -1251,11 +1251,11 @@
     "name": "Je následující tvrzení pravdivé? \"Funkce system() se používá pro spuštění externího příkazu nebo programu\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -1264,11 +1264,11 @@
     "name": "Je následující tvrzení pravdivé? \"Jeden unit test by měl testovat vždy jednu komponentu a měl by být nezávislý na ostatních unit testech\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -1277,11 +1277,11 @@
     "name": "Je následující tvrzení pro jazyk C pravdivé? \"Velikosti jednotlivých typů jsou závislé na platformě\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -1290,11 +1290,11 @@
     "name": "Je následující tvrzení pravdivé? \"Proměnná typu funkční ukazatel umožňuje uložit adresu funkce a provést její zavolání později nad danými argumenty \"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -1303,11 +1303,11 @@
     "name": "Je následující tvrzení pravdivé? \"Unit testing používá sadu automaticky spouštěných testů pro jednotlivé elementární komponenty systému\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -1316,11 +1316,11 @@
     "name": "Je následující tvrzení pravdivé? \"Každý certifikovaný UNIX musí splňovat normu POSIX\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -1329,11 +1329,11 @@
     "name": "Je následující tvrzení pravdivé? \"Klíčové slovo goto bylo z jazyka C v nejnovějším standardu C99 odstraněno\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -1342,11 +1342,11 @@
     "name": "Je následující tvrzení pravdivé? \"vícerozměrné pole lze realizovat jako jednorozměrné pole\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -1355,11 +1355,11 @@
     "name": "Je následující tvrzení pravdivé? \"Jazyk C je staticky typovaný jazyk\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -1368,11 +1368,11 @@
     "name": "Je následující tvrzení pravdivé? \"Datový typ enum se používá pouze jako výčet pojmenovaných celočíselných kladných konstant\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -1381,11 +1381,11 @@
     "name": "Je následující tvrzení pravdivé? \"Pokud se chceme posunout na další prvek v souboru, použijeme ukazatelovou aritmetiku nad ukazatelem typu FILE*.\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -1394,11 +1394,11 @@
     "name": "Je následující tvrzení pravdivé? \"Všechny modifikátory proměnných jsou pro překladač jen doporučení\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -1407,11 +1407,11 @@
     "name": "Je následující tvrzení pravdivé? \"Funkce rand() vrátí další hodnotu z pseudonáhodné sekvence v rozsahu, který si zvolí programátor\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -1420,11 +1420,11 @@
     "name": "Je následující tvrzení pro jazyk C pravdivé? \"Operátory & a && lze volně zaměňovat, neboť jejich výsledek je vždy stejná logická hodnota\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -1433,11 +1433,11 @@
     "name": "Je následující tvrzení pravdivé? \"Zavolání funkce free() pro dealokaci dynamicky alokované paměti automaticky nastaví hodnotu dealokovaného ukazatele na NULL.\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -1446,11 +1446,11 @@
     "name": "Je následující tvrzení pravdivé? \"Program napsaný v jazyce C nemůže být rozšířen o uživatelské datové typy.\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -1459,11 +1459,11 @@
     "name": "Je následující tvrzení pravdivé? \"Argumenty se vždy předávají hodnotou \"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -1472,11 +1472,11 @@
     "name": "Je následující tvrzení pravdivé? \"Velikost datového typu struct je taková, aby bylo možné uložit nezávisle všechny jeho položky\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -1485,11 +1485,11 @@
     "name": "Je následující tvrzení pravdivé? \"Makro assert() vypíše na standardní chybový výstup informace o umístění podmínky, která se vyhodnotila na false a ukončí běh programu\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -1498,11 +1498,11 @@
     "name": "Je následující tvrzení pravdivé? \"Preprocesor umožňuje vytvářet makra s parametry, je ale vhodnější použít tzv. inline funkce\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -1511,11 +1511,11 @@
     "name": "Je následující tvrzení pravdivé? \"textový řetězec lze ukončit umístěním koncové nuly, dochází zároveň k dealokaci přebytečné paměti\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -1524,11 +1524,11 @@
     "name": "Je následující tvrzení pravdivé? \"Funkce printf nabízí modifikátory pro výpis čísel v desítkové, osmičkové i šestnástkové soustavě.\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -1537,11 +1537,11 @@
     "name": "Je následující tvrzení pravdivé? \"Typová konverze na sémantické úrovni nemění obsah paměti, pouze mění způsob její interpretace\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -1550,11 +1550,11 @@
     "name": "Je následující tvrzení pravdivé? \"Pokud chceme spustit příkaz pro vypsání obsahu adresáře (ls na Unix, dir na Windows), použijeme příkaz system(\"list\"), běhové prostředí se postará o překlad do správného příkazu dle aktuálního operačního systému\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -1563,11 +1563,11 @@
     "name": "Je následující tvrzení pravdivé? \"Protože nový řádek je na platformě Windows kódován jako znaky \\r \\n (0D 0A hexadecimálně), je funkce fgetc (FILE *stream) typu int, aby se oba znaky načetly do jedné hodnoty 0x0D0A.\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -1576,11 +1576,11 @@
     "name": "Je následující tvrzení pravdivé? \"řetězcové konstanty neobsahují koncovou nulu\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -1589,11 +1589,11 @@
     "name": "Je následující tvrzení pro jazyk C pravdivé? \"Příkaz switch lze použít pro všechny primitivní datové typy\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -1602,11 +1602,11 @@
     "name": "Je následující tvrzení pravdivé? \"Pomocí automatické konverzelze přetypovat int* na int.\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -1615,11 +1615,11 @@
     "name": "Je následující tvrzení pro jazyk C pravdivé? \"Jazyk C poskytuje v normě C99 funkce pro síťovou komunikaci\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -1628,11 +1628,11 @@
     "name": "Je následující tvrzení pravdivé? \"Klíčové slovo volatile u proměnné informuje překladač, že musí vždy nahrát znovu obsah proměnné do registru CPU před jejím použitím\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -1641,11 +1641,11 @@
     "name": "Je následující tvrzení pravdivé? \"Deklarovaný typ hodnoty nelze změnit\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -1654,11 +1654,11 @@
     "name": "Je následující tvrzení pravdivé? \"Pokud se chceme posunout na konkrétní pozici v souboru, použijeme funkci fseek.\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -1667,11 +1667,11 @@
     "name": "Je následující tvrzení pravdivé? \"pro přístup do třírozměrného pole array používáme operátor [] a syntaxi array[i][j][k]\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -1680,11 +1680,11 @@
     "name": "Je následující tvrzení pravdivé? \"zápis mimo alokované pole je detekován už během překladu\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -1693,11 +1693,11 @@
     "name": "Je následující tvrzení pravdivé? \"Funkce clock() vrací přibližnou dobu, po kterou byl programu přidělen procesor.\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -1706,11 +1706,11 @@
     "name": "Je následující tvrzení pravdivé? \"Proměnná typu ukazatel nemůže být nulová\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -1719,11 +1719,11 @@
     "name": "Je následující tvrzení pravdivé? \"pole lze inicializovat hodnotami v době jeho vytváření\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -1732,11 +1732,11 @@
     "name": "Je následující tvrzení pravdivé? \"Soubor stdin je soubor standardního vstupu a musí být programátorem otevřen pomocí funkce fopen().\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -1745,11 +1745,11 @@
     "name": "Je následující tvrzení pro jazyk C pravdivé? \"Všechny operátory mají stejnou prioritu, vyhodnocuje se vždy zleva doprava\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -1758,11 +1758,11 @@
     "name": "Je následující tvrzení pravdivé? \"Položky ve výčtovém typu enum mohou být indexovány pouze vzestupně.\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -1771,11 +1771,11 @@
     "name": "Je následující tvrzení pravdivé? \"s řetězci lze manipulovat jako s polem znaků\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -1784,11 +1784,11 @@
     "name": "Je následující tvrzení pravdivé? \"Nový řádek je na platformě Unix kódován jako znaky \\r \\n (0D 0A hexadecimálně).\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -1797,11 +1797,11 @@
     "name": "Je následující tvrzení pravdivé? \"Funkce system() se používá pro nastavení systémové proměnné operačního systému\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -1810,11 +1810,11 @@
     "name": "Je následující tvrzení pro jazyk C pravdivé? \"Velikost datového typu char je vždy 1 bajt (8 bitů)\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -1823,11 +1823,11 @@
     "name": "Je následující tvrzení pravdivé? \"Funkci free() automaticky nastavuje obsah mazané paměti na 0 nebo na jinou zadanou hodnotu\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -1836,11 +1836,11 @@
     "name": "Je následující tvrzení pravdivé? \"Adresu funkce získáme pomocí operátoru reference &, musíme zároveň specifikovat i argumenty, se kterými bude funkce později volána\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -1849,11 +1849,11 @@
     "name": "Je následující tvrzení pravdivé? \"Unit testy poskytují včasnou detekci zanesení chyb při provádění refactoringu\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -1862,11 +1862,11 @@
     "name": "Je následující tvrzení pravdivé? \"Do proměnné typu void* můžeme přiřadit ukazatel na libovolný jiný typ\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -1875,11 +1875,11 @@
     "name": "Je následující tvrzení pravdivé? \"Funkce scanf, při použití formátovacího řetězce \"%4d %5c\" předpokládá hodnoty na vstupu oddělené bílými znaky (mezera, tabulátor...).\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -1888,11 +1888,11 @@
     "name": "Je následující tvrzení pravdivé? \"Rekurzivní vnoření se zastaví tím, že funkce typicky na základě podmínky nezavolá znovu sebe sama a skončí. \"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -1901,11 +1901,11 @@
     "name": "Je následující tvrzení pravdivé? \"Typová konverze na bitové úrovni i sémantické úrovni může být ztrátová\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -1914,11 +1914,11 @@
     "name": "Je následující tvrzení pravdivé? \"Klíčové slovo goto realizuje nepodmíněný skok na návěští\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -1927,11 +1927,11 @@
     "name": "Je následující tvrzení pravdivé? \"pomocí řetězcové konstanty lze inicializovat proměnou typu řetězec\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -1940,11 +1940,11 @@
     "name": "Je následující tvrzení pro jazyk C pravdivé? \"Pořadí vyhodnocení výrazů je závislé na použitých operátorech\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -1953,11 +1953,11 @@
     "name": "Je následující tvrzení pravdivé? \"Velikost datového typu union je taková, jaká je velikost největší položky (+ případné zarovnání v paměti)\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -1966,11 +1966,11 @@
     "name": "Je následující tvrzení pravdivé? \"Do proměnné typu enum nelze přiřadit jiné hodnoty než hodnoty specifikované v deklaraci\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -1979,11 +1979,11 @@
     "name": "Je následující tvrzení pravdivé? \"Pokud otevíráme soubor pro zápis v módu \"w\", tak dojde k vytvoření souboru, pokud ještě neexistuje.\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -1992,11 +1992,11 @@
     "name": "Je následující tvrzení pravdivé? \"Klíčové slovo goto se doporučuje používat, neboť typicky vede k čitelnějšímu a udržovatelnějšímu kódu \"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -2005,11 +2005,11 @@
     "name": "Je následující tvrzení pravdivé? \"Pokud do proměnné typu enum přiřadíme jinou hodnotu, než je specifikována v deklaraci, překladač vždy ohlásí chybu\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -2018,11 +2018,11 @@
     "name": "Je následující tvrzení pravdivé? \"Memory leak označuje paměť na zásobníku nebo haldě na kterou již neexistuje ukazatel\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -2031,11 +2031,11 @@
     "name": "Je následující tvrzení pro jazyk C pravdivé? \"Při zavolání funkce system() se nečeká na dokončení jím spuštěného příkazu.\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -2044,11 +2044,11 @@
     "name": "Je následující tvrzení pravdivé? \"Pokud zavřeme soubor pomocí funkce fclose(), tak přestává být ukazatel na soubor validní.\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -2057,11 +2057,11 @@
     "name": "Je následující tvrzení pravdivé? \"Standardní knihovna jazyka C neobsahuje funkce pro práci s grafickým rozhraním (GUI)\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -2070,11 +2070,11 @@
     "name": "Je následující tvrzení pravdivé? \"do hlavičkového souboru můžeme umístit i definice funkcí\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -2083,11 +2083,11 @@
     "name": "Je následující tvrzení pravdivé? \"Pro nastavení čtecí hlavy na konec souboru musíme projít celý soubor bajt po bajtu od začátku.\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -2096,11 +2096,11 @@
     "name": "Je následující tvrzení pravdivé? \"Funkce malloc() vrací hodnotu NULL, pokud se dynamická alokace nezdaří\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -2109,11 +2109,11 @@
     "name": "Je následující tvrzení pro jazyk C pravdivé? \"Operátor logického součinu && je pravdivý pouze když jsou oba argumenty nepravda (FALSE)\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -2122,11 +2122,11 @@
     "name": "Je následující tvrzení pravdivé? \"Debugger má přístup do paměti laděného programu.\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -2135,11 +2135,11 @@
     "name": "Je následující tvrzení pravdivé? \"pokud řetězec neinicializujeme, tak obsahuje nedefinovaná data z paměti \"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -2148,11 +2148,11 @@
     "name": "Je následující tvrzení pravdivé? \"Funkce feof(f) vrátí nenulovou hodnotu (true) jakmile se provede čtení po konci souboru, který je zpřistupněn pomocí proměnné f.\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -2161,11 +2161,11 @@
     "name": "Je následující tvrzení pravdivé? \"Pokud je klíčovým slovem const označena proměnná typu ukazatel, tak změna hodnoty ukazatele není povolena. Změna hodnoty v paměti, kam ukazatel ukazuje ale povolena je.\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -2174,11 +2174,11 @@
     "name": "Je následující tvrzení pravdivé? \"Funkce pro binární vyhledávání bsearch() přijímá jako jeden z parametrů callback funkci odpovědnou za porovnávání položek prohledávaného pole \"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -2187,11 +2187,11 @@
     "name": "Je následující tvrzení pravdivé? \"Pokud má proměnná X výčtový typ enum, tak do ní nelze přiřadit i hodnotu typu int, která se nenachází ve výčtovém typu.\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -2200,11 +2200,11 @@
     "name": "Je následující tvrzení pravdivé? \"Soubor typicky zavíráme pomocí funkce fclose(). Není to ale nutné, běhové prostředí samo zjistí, že soubor již není používán.\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -2213,11 +2213,11 @@
     "name": "Je následující tvrzení pro jazyk C pravdivé? \"Pro začlenění dodatečné knihovny do překladu použijeme přepínač -l\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -2226,11 +2226,11 @@
     "name": "Je následující tvrzení pro jazyk C pravdivé? \"Operátor logického součtu || je pravdivý když je alespoň jeden argument pravda (TRUE)\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -2239,11 +2239,11 @@
     "name": "Je následující tvrzení pravdivé? \"Memory leak lze detekovat s využitím nástrojů, např. Valgrind\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -2252,11 +2252,11 @@
     "name": "Je následující tvrzení pravdivé? \"Rekurzivní vnoření se zastaví automaticky, programátor nemusí zastavení v kódu implementovat.  \"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -2265,11 +2265,11 @@
     "name": "Je následující tvrzení pravdivé? \"Funkce memset nastaví zadanou paměť na požadovanou hodnotu\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -2278,11 +2278,11 @@
     "name": "Je následující tvrzení pravdivé? \"O paměť kterou alokujeme, se dále nemusíme starat. Uvolnění zajistí automatický garbage collector.\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -2291,11 +2291,11 @@
     "name": "Je následující tvrzení pravdivé? \"Pokud před proměnnou uvedeme klíčové slovo const, musíme jí ihned přiřadit hodnotu\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -2304,11 +2304,11 @@
     "name": "Je následující tvrzení pravdivé? \"Soubor stdout je soubor standardního výstupu a musí být programátorem otevřen pomocí funkce fopen().\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -2317,11 +2317,11 @@
     "name": "Je následující tvrzení pravdivé? \"Rekurze je typicky výrazně rychlejší jako  cyklus\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -2330,11 +2330,11 @@
     "name": "Je následující tvrzení pravdivé? \"Datový typ enum se používá jako výčet pojmenovaných celočíselných konstant\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -2343,11 +2343,11 @@
     "name": "Je následující tvrzení pravdivé? \"Dynamická alokace umožňuje vytvořit datovou položku o specifikované velikosti za běhu programu\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -2356,11 +2356,11 @@
     "name": "Je následující tvrzení pravdivé? \"pro přístup do třírozměrného pole array používáme operátor [] a syntaxi array[i,j,k]\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -2369,11 +2369,11 @@
     "name": "Je následující tvrzení pravdivé? \"Funkce pro práci s pamětí (memXXX) jsou vždy stejně rychlé jako funkce pro práci s řetězci\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -2382,11 +2382,11 @@
     "name": "Je následující tvrzení pravdivé? \"Typový systém určuje pravidla, jak se mohou měnit typy hodnot\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -2395,11 +2395,11 @@
     "name": "Je následující tvrzení pravdivé? \"Standardní knihovna jazyka C obsahuje funkci pro řadící algoritmus quicksort\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -2408,11 +2408,11 @@
     "name": "Je následující tvrzení pro jazyk C pravdivé? \"U jmen proměnných nezáleží na velikosti písmen\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -2421,11 +2421,11 @@
     "name": "Je následující tvrzení pravdivé? \"Plytká kopie vytváří kompletní kopii proměnné, včetně kopií odkazovaných dat.\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -2434,11 +2434,11 @@
     "name": "Je následující tvrzení pravdivé? \"Pokud před proměnnou uvedeme klíčové slovo const, můžeme změnit její hodnotu později v programu přiřazením nové hodnoty do této proměnné\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -2447,11 +2447,11 @@
     "name": "Je následující tvrzení pravdivé? \"Ukazatel typu void* nelze vytvářet explicitně, vzniká pouze při automatickém přetypování\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -2460,11 +2460,11 @@
     "name": "Je následující tvrzení pravdivé? \"Rekurzivní volání často kombinuje výsledek vrácený rekurzivním voláním s výsledkem spočteným v rámci aktuální funkce.\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -2473,11 +2473,11 @@
     "name": "Je následující tvrzení pravdivé? \"Pokud předáme argument pomocí hodnoty ukazatele na něj, můžeme jej ve funkci měnit a změna bude zachována i po konci funkce\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -2486,11 +2486,11 @@
     "name": "Je následující tvrzení pravdivé? \"Konstanty určující minimální a maximální hodnoty primitivních datových typů jsou pro různé platformy stejné\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -2499,11 +2499,11 @@
     "name": "Je následující tvrzení pravdivé? \"Při otevření souboru pro čtení v binárním režimu (mód \"rb\") je možné soubor načítat po jednotlivých bitech.\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -2512,11 +2512,11 @@
     "name": "Je následující tvrzení pravdivé? \"při deklaraci délky řetězce v C je nutné započíst i koncovou nulu\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -2525,11 +2525,11 @@
     "name": "Je následující tvrzení pravdivé? \"Statická a dynamická alokace jsou plně zaměnitelné.\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -2538,11 +2538,11 @@
     "name": "Je následující tvrzení pravdivé? \"Funkce pro vstup a výstup jsou implementovány v knihovně s hlavičkovým souborem stdio.h.\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -2551,11 +2551,11 @@
     "name": "Je následující tvrzení pravdivé? \"Klíčové slovo extern je defaultní volba pro prototyp funkce\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -2564,11 +2564,11 @@
     "name": "Je následující tvrzení pravdivé? \"Struktura položky (člena) zřetězeného (spojového) seznamu smí obsahovat právě jednu položku ukazatelového typu.\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -2577,11 +2577,11 @@
     "name": "Je následující tvrzení pravdivé? \"Funkce scanf umožňuje načítat hodnoty ze standardního vstupu.\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -2590,11 +2590,11 @@
     "name": "Je následující tvrzení pro jazyk C pravdivé? \"Mezi základní datové typy patří integer, float, real a string\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -2603,11 +2603,11 @@
     "name": "Je následující tvrzení pravdivé? \"Dynamická alokace alokuje paměť na zásobníku a proměnnou obsahující adresu na alokovanou paměť na haldě\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -2616,11 +2616,11 @@
     "name": "Je následující tvrzení pravdivé? \"Funkce main má první argument typu int se jménem argc. Tento argument může mít v některých případech hodnotu 0.\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -2629,11 +2629,11 @@
     "name": "Je následující tvrzení pravdivé? \"Funkce printf automaticky pozná typ očekávaného argumentu na základě formátovacího řetězce předaného jako první argument.\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -2642,11 +2642,11 @@
     "name": "Je následující tvrzení pravdivé? \"Jednotlivé položky v datovém typu union jsou umístěny v paměti na stejné počáteční adrese\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -2655,11 +2655,11 @@
     "name": "Předpokládejte pole deklarované jako int array[10]; Je následující tvrzení pravdivé? \"array + 1 není validní výraz\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -2668,11 +2668,11 @@
     "name": "Je následující tvrzení pro jazyk C pravdivé? \"Bitový operátor ^ vrací na dané bitové pozici hodnotu 1, pokud je odpovídající bit právě jednoho argumentu roven 1\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -2681,11 +2681,11 @@
     "name": "Je následující tvrzení pravdivé? \"Dynamicky alokovaná paměť bude automaticky uvolněna po zániku posledního ukazatele na danou adresu.\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -2694,11 +2694,11 @@
     "name": "Je následující tvrzení pravdivé? \"Klíčové slovo static je defaultní paměťová třída pro lokální proměnné\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -2707,11 +2707,11 @@
     "name": "Je následující tvrzení pravdivé? \"Pokud zapisujeme data do souboru, musíme po zápisu posunout ukazatel za zapsaná data pomocí funkcí fgetpos a fsetpos.\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -2720,11 +2720,11 @@
     "name": "Je následující tvrzení pravdivé? \"lze vytvářet pole ukazatelů a to včetně vícerozměrných polí\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -2733,11 +2733,11 @@
     "name": "Je následující tvrzení pravdivé? \"Proměnná typu ukazatel je proměnná obsahující adresu \"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -2746,11 +2746,11 @@
     "name": "Je následující tvrzení pravdivé? \"Funkce malloc() provede dynamickou alokaci paměti a paměť inicializuje na 0\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -2759,11 +2759,11 @@
     "name": "Je následující tvrzení pravdivé? \"Funkce getenv() se používá pro získání systémové proměnné, např. PATH\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -2772,11 +2772,11 @@
     "name": "Je následující tvrzení pravdivé? \"Pomocí klíčového slova const můžeme označit i argumenty funkce\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -2785,11 +2785,11 @@
     "name": "Je následující tvrzení pravdivé? \"Modifikátor otevření souboru pro zápis na konec je \"a\".\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -2798,11 +2798,11 @@
     "name": "Předpokládejte pole deklarované jako int array[10]; Je následující tvrzení pravdivé? \"výraz array + 1 vrací adresu druhého prvku pole array \"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -2811,11 +2811,11 @@
     "name": "Je následující tvrzení pravdivé? \"Strict aliasing označuje požadavek standardu, aby bylo možné vytvořit dva a více ukazatelů na stejnou paměť s různým datovým typem\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -2824,11 +2824,11 @@
     "name": "Je následující tvrzení pravdivé? \"Velikost datového typu struct je taková, jaká je velikost největší položky (+ případné zarovnání v paměti)\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -2837,11 +2837,11 @@
     "name": "Je následující tvrzení pravdivé? \"do hlavičkového souboru typicky umisťujeme deklarace knihovních funkcí\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -2850,11 +2850,11 @@
     "name": "Je následující tvrzení pravdivé? \"Nový řádek je na platformě Windows kódován jako znaky \\r \\n (0D 0A hexadecimálně).\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -2863,11 +2863,11 @@
     "name": "Je následující tvrzení pravdivé? \"Velikost struktury může být větší než prostý součet velikostí jednotlivých položek.\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -2876,11 +2876,11 @@
     "name": "Předpokládejte pole deklarované jako int array[10]; Je následující tvrzení pravdivé? \"výraz array[3] vrací hodnotu čtvrtého prvku pole \"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -2889,11 +2889,11 @@
     "name": "Je následující tvrzení pro jazyk C pravdivé? \"Funkce opendir() se používá v kombinaci s funkcí readdir() pro procházení obsahu adresáře (soubory a podadresáře)\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -2902,11 +2902,11 @@
     "name": "Je následující tvrzení pravdivé? \"Soubor vždy otevíráme pro zápis. Volitelně můžeme zvolit otevření i pro čtení.\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -2915,11 +2915,11 @@
     "name": "Je následující tvrzení pravdivé? \"Funkce malloc() provede dynamickou alokaci paměti o zadané délce v bajtech\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -2928,11 +2928,11 @@
     "name": "Je následující tvrzení pravdivé? \"Typickým řešení problému určení posledního prvku v zřetězeném seznamu je nastavení ukazatele na následující položku na NULL.\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -2941,11 +2941,11 @@
     "name": "Je následující tvrzení pro jazyk C pravdivé? \"Příkaz switch umožňuje ošetřit případ, kdy řídící proměnná neobsahuje žádnou z hodnot specifikovaných klauzulemi case.\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -2954,11 +2954,11 @@
     "name": "Je následující tvrzení pravdivé? \"Klíčové slovo register je pro překladač povinné, překladač vždy umístí proměnnou do registru procesoru a optimalizuje tak rychlost\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -2967,11 +2967,11 @@
     "name": "Je následující tvrzení pravdivé? \"Pole může mít velikost zadánu pouze během kompilace\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -2980,11 +2980,11 @@
     "name": "Je následující tvrzení pravdivé? \"Typová konverze na bitové úrovni je typicky časově náročnější\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -2993,11 +2993,11 @@
     "name": "Je následující tvrzení pravdivé? \"Pokud má proměnná X výčtový typ enum, tak do ní lze přiřadit i hodnotu typu int, která se nenachází ve výčtovém typu.\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -3006,11 +3006,11 @@
     "name": "Je následující tvrzení pravdivé? \"Makro assert() má v Debug režimu i v Release režimu (definováno makro NDEBUG) stejný význam\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -3019,11 +3019,11 @@
     "name": "Je následující tvrzení pravdivé? \"Funkce sprintf umožňuje vypisovat hodnoty stejně jako printf, ale do řetězce namísto na standardní výstup.\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -3032,11 +3032,11 @@
     "name": "Je následující tvrzení pravdivé? \"Proměnnou typu const není nutné inicializovat při deklaraci.\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -3045,11 +3045,11 @@
     "name": "Je následující tvrzení pravdivé? \"Kromě cílového konzumenta (stdout/řetězec/, soubor) funkce printf, sprintf a fprintf fungují analogicky.\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -3058,11 +3058,11 @@
     "name": "Je následující tvrzení pro jazyk C pravdivé? \"Velikost datového typu int je vždy 4 bajty (32 bitů)\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -3071,11 +3071,11 @@
     "name": "Je následující tvrzení pravdivé? \"Funkce main má první argument typu int se jménem argc. Tento argument obsahuje počet argumentů zadaných na příkazové řádce při spuštění programu zvýšený o jedna (cesta ke spouštěnému programu)\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -3084,11 +3084,11 @@
     "name": "Je následující tvrzení pravdivé? \"Aktuální pozici v souboru zjistíme pomocí funkce ftell().\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -3097,11 +3097,11 @@
     "name": "Je následující tvrzení pravdivé? \"u vícerozměrných polí není možné používat ukazatelovou aritmetiku\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -3110,11 +3110,11 @@
     "name": "Je následující tvrzení pravdivé? \"V programu mohu provést dereferenci ukazatele na typ void. (příklad: void funkce(void * a){ *a = 10; }).\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -3123,11 +3123,11 @@
     "name": "Je následující tvrzení pravdivé? \"Pomocí funkce fopen lze soubor otevřít pro čtení i zápis zároveň.\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -3136,11 +3136,11 @@
     "name": "Je následující tvrzení pravdivé? \"Funkce malloc() při alokaci automaticky inicializuje paměť na zadanou hodnotu.\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -3149,11 +3149,11 @@
     "name": "Je následující tvrzení pravdivé? \"Proměnné typu union nelze dynamicky alokovat\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -3162,11 +3162,11 @@
     "name": "Je následující tvrzení pravdivé? \"Funkce main má první argument typu int se jménem argc. Tento argument obsahuje hodnotu argumentů zadaných na příkazové řádce při spuštění programu\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -3175,11 +3175,11 @@
     "name": "Je následující tvrzení pravdivé? \"Funkce fopen otevře zadaný soubor, cesta může být absolutní i relativní.\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -3188,11 +3188,11 @@
     "name": "Je následující tvrzení pravdivé? \"Funkce realloc() umožňuje zvětšit velikost dynamicky alokované paměti\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -3201,11 +3201,11 @@
     "name": "Je následující tvrzení pravdivé? \"Pokud otevřeme soubor pomocí fopen, získáme ukazatel na jeho začátek.\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -3214,11 +3214,11 @@
     "name": "Je následující tvrzení pravdivé? \"Funkce realloc() umožňuje nastavit obsah dynamicky alokované paměti na zadanou hodnotu\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -3227,11 +3227,11 @@
     "name": "Je následující tvrzení pravdivé? \"Deklarovaný typ hodnoty lze změnit, ale pouze pokud je povolena automatická typová konverze\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -3240,11 +3240,11 @@
     "name": "Je následující tvrzení pravdivé? \"Při každém rekurzivním zavolání funkce vzniká na zásobníku nový rámec se samostatnými lokálními proměnnými. \"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -3253,11 +3253,11 @@
     "name": "Je následující tvrzení pravdivé? \"Konstanty určující minimální a maximální hodnoty primitivních datových typů se mohou lišit mezi různými platformami\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -3266,11 +3266,11 @@
     "name": "Je následující tvrzení pravdivé? \"Typový systém určuje pravidla, jaké operace lze provádět nad zadanými typy\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -3279,11 +3279,11 @@
     "name": "Je následující tvrzení pravdivé? \"Všechny modifikátory proměnných jsou pro překladač vždy povinné\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -3292,11 +3292,11 @@
     "name": "Je následující tvrzení pravdivé? \"Funkce realloc() umožňuje přesunout dynamicky alokovanou pamět na zadanou pozici\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -3305,11 +3305,11 @@
     "name": "Je následující tvrzení pravdivé? \"Soubor stdout je soubor standardního výstupu a je automaticky otevřen při začátku běhu programu.\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -3318,11 +3318,11 @@
     "name": "Je následující tvrzení pravdivé? \"Hloubka rekurze (počet zanořených volání) je omezen velikostí zásobníku.\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -3331,11 +3331,11 @@
     "name": "Je následující tvrzení pravdivé? \"Pokud je proměnná 'zacatek' ukazatelem na začátek dynamicky alokovaného, propojeného seznamu, pak *(zacatek+4) je 4. položka propojeného seznamu.\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -3344,11 +3344,11 @@
     "name": "Je následující tvrzení pravdivé? \"Funkce sscanf umožňuje načítat hodnoty stejně jako scanf, ale z řetězce místo ze standardního vstupu.\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -3357,11 +3357,11 @@
     "name": "Je následující tvrzení pravdivé? \"Automatická typová konverze může proběhnout při předání argumentů funkci\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -3370,11 +3370,11 @@
     "name": "Je následující tvrzení pro jazyk C pravdivé? \"Jazyk C nepoužívá zkrácené vyhodnocování logických výrazů, vždy jsou vyhodnoceny všechny podvýrazy\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -3383,11 +3383,11 @@
     "name": "Je následující tvrzení pravdivé? \"Datový typ union je zaveden pro možnost paměťové i časové optimalizace\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -3396,11 +3396,11 @@
     "name": "Je následující tvrzení pravdivé? \"zápis mimo alokované pole je během překladu detekován pro pole s proměnnou délkou\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -3409,11 +3409,11 @@
     "name": "Je následující tvrzení pravdivé? \"Automatická přetypování provádí programátor automaticky při vytváření funkce\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -3422,11 +3422,11 @@
     "name": "Je následující tvrzení pravdivé? \"Pokud otevíráme soubor pro čtení v módu \"r\", tak dojde k vytvoření souboru, pokud ještě neexistuje.\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -3435,11 +3435,11 @@
     "name": "Je následující tvrzení pravdivé? \"Automatická přetypování provádí překladač v době překladu\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -3448,11 +3448,11 @@
     "name": "Je následující tvrzení pro jazyk C pravdivé? \"Mezi základní datové typy patří integer, float, real, double a char\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -3461,11 +3461,11 @@
     "name": "Je následující tvrzení pravdivé? \"Trojrozměrné pole lze implementovat pomocí jednorozměrného pole a operací sčítání a násobení\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -3474,11 +3474,11 @@
     "name": "Je následující tvrzení pravdivé? \"Pořadí dvou po sobě vytvořených polí v paměti (vzájemné umístění jejich začátků) je na zásobníku i na haldě stejné.\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -3487,11 +3487,11 @@
     "name": "Je následující tvrzení pravdivé? \"Pokud otevíráme soubor pro čtení v módu \"r\", tak je vrácen ukazatel NULL v případě, že soubor neexistuje.\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -3500,11 +3500,11 @@
     "name": "Je následující tvrzení pravdivé? \"třírozměrné pole hodnot typu int deklarujeme jako int array3D[X][Y][Z]; kde X, Y a Z jsou vhodné numerické konstanty.\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -3513,11 +3513,11 @@
     "name": "Je následující tvrzení pravdivé? \"Volání 'char *ptr = NULL; ptr = realloc(ptr, 10); free(ptr);' způsobí memory leak.\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -3526,11 +3526,11 @@
     "name": "Je následující tvrzení pravdivé? \"Pro přesné změření doby trvání krátké operace lze využít kombinace funkce clock() a velkého množství opakování měřené operace (je nutné dát pozor na optimalizaci překladače)\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -3539,11 +3539,11 @@
     "name": "Je následující tvrzení pro jazyk C pravdivé? \"Bitový operátor << provádí negaci bitů\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -3552,11 +3552,11 @@
     "name": "Je následující tvrzení pravdivé? \"Pokud chceme zjistit aktuální pozici v souboru, použijeme atribut struktury FILE.\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -3565,11 +3565,11 @@
     "name": "Je následující tvrzení pravdivé? \"Unit testy jsou primárně určené pro hledání nových chyb v existujícím kódu\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -3578,11 +3578,11 @@
     "name": "Je následující tvrzení pravdivé? \"Automatická typová konverze může proběhnout při vyhodnocení výrazu\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -3591,11 +3591,11 @@
     "name": "Je následující tvrzení pravdivé? \"Pokud otevíráme soubor pro zápis v módu \"w\", tak otevření selže, pokud soubor ještě neexistuje.\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -3604,11 +3604,11 @@
     "name": "Je následující tvrzení pravdivé? \"Dynamicky alokovaná paměť je dostupná v bloku, vekterém byla alokována. Před ukončením bloku je třeba ji explicitně uvolnit pomocí free().\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -3617,11 +3617,11 @@
     "name": "Je následující tvrzení pravdivé? \"Dynamická alokace alokuje paměť na haldě, lze vytvořit proměnnou na haldě nebo zásobníku, která bude obsahovat adresu alokované paměti\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -3630,11 +3630,11 @@
     "name": "Je následující tvrzení pravdivé? \"Přetypováním proměnné můžeme přijít o čast nesené informace.\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -3643,11 +3643,11 @@
     "name": "Je následující tvrzení pravdivé? \"Funkce srand() nastaví počáteční semínko pro generovanou sekvenci, při stejném semínku bude i výsledná sekvence čísel stejná\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -3656,11 +3656,11 @@
     "name": "Je následující tvrzení pravdivé? \"Typová konverze na sémantické úrovni může být ztrátová, pokud přetypováváme z typu s větším rozsahem na typ s menším rozsahem\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -3669,11 +3669,11 @@
     "name": "Je následující tvrzení pravdivé? \"Hloubka rekurze (počet zanořených volání) není ničím omezená.\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -3682,11 +3682,11 @@
     "name": "Je následující tvrzení pro jazyk C pravdivé? \"Proměnné mohou obsahovat v názvu pouze písmena, cifry a podtržítko\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -3695,11 +3695,11 @@
     "name": "Je následující tvrzení pravdivé? \"Velikost datového typu union je taková, aby bylo možné uložit nezávisle všechny jeho položky\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -3708,11 +3708,11 @@
     "name": "Je následující tvrzení pravdivé? \"Automatická typová konverze může proběhnout při přiřazení hodnoty do proměnné\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -3721,11 +3721,11 @@
     "name": "Je následující tvrzení pravdivé? \"Rekurzivní funkce je funkce, která ve svém těle volá sebe samu.\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -3734,11 +3734,11 @@
     "name": "Je následující tvrzení pravdivé? \"Funkce scanf při použití formátovacího řetězce \"%5c %4d\" předpokládá hodnoty na vstupu oddělené středníkem.\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -3747,11 +3747,11 @@
     "name": "Je následující tvrzení pravdivé? \"Funkce printf neumožňuje vypsat adresu proměnné, pouze její hodnotu.\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -3760,11 +3760,11 @@
     "name": "Je následující tvrzení pravdivé? \"Soubor stdin je soubor standardního vstupu a je automaticky otevřen při začátku běhu programu.\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -3773,11 +3773,11 @@
     "name": "Je následující tvrzení pravdivé? \"Rozsah datového typu se znaménkem je vždy ekvivalentní rozsahu datového typu bez znaménka\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -3786,11 +3786,11 @@
     "name": "Je následující tvrzení pravdivé? \"Jazyk C nepoužívá typy, z důvodu rychlosti pracuje vždy na úrovni bitů\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -3799,11 +3799,11 @@
     "name": "Je následující tvrzení pravdivé? \"Funkce malloc() a calloc() se liší pouze argumenty, ale chování mají stejné.\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -3812,11 +3812,11 @@
     "name": "Je následující tvrzení pravdivé? \"Rekurzivní funkce může ve svém těle obsahovat více volání sebe sama.\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -3825,11 +3825,11 @@
     "name": "Je následující tvrzení pravdivé? \"Funkce pro binární vyhledávání bsearch() předpokládá setřízené pole, ve kterém vyhledává zadanou položku\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -3838,11 +3838,11 @@
     "name": "Je následující tvrzení pravdivé? \"Funkce sprintf() automaticky naalokuje dostatek paměti pro uložení výsledného řetězce.\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -3851,11 +3851,11 @@
     "name": "Je následující tvrzení pravdivé? \"Funkce free() umožňuje uvolnit dynamicky alokovanou paměť \"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -3864,11 +3864,11 @@
     "name": "Je následující tvrzení pravdivé? \"zápis mimo alokované pole způsobí vždy vyvolání výjimky za běhu\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -3877,11 +3877,11 @@
     "name": "Je následující tvrzení pravdivé? \"Funkce realloc() umožňuje změnšit velikost dynamicky alokované paměti \"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -3890,11 +3890,11 @@
     "name": "Je následující tvrzení pravdivé? \"Pro práci se souborem obsahujícím široké znaky používáme typicky funkce z hlavičkového souboru wchar.h.\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -3903,11 +3903,11 @@
     "name": "Je následující tvrzení pravdivé? \"Počet bitů v jednom znaku (char) je vždy stejný a roven 8\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -3916,11 +3916,11 @@
     "name": "Je následující tvrzení pravdivé? \"Konstanta EOF slouží pro signalizaci pokusu o čtení za koncem souboru.\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -3929,11 +3929,11 @@
     "name": "Je následující tvrzení pravdivé? \"Funkce printf nabízí modifikátory pro omezení počtu vypisovaných desetinných míst u reálných čísel.\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -3942,11 +3942,11 @@
     "name": "Je následující tvrzení pravdivé? \"Pokud otevíráme soubor pro zápis v módu \"w\", tak dojde ke smazání souboru, pokud již existuje (velikost == 0).\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -3955,11 +3955,11 @@
     "name": "Je následující tvrzení pravdivé? \"Pokud selže volání volání fclose(soubor), tak se souborem lze nadále pracovat (proměnná soubor byla deklarována jako FILE *).\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -3968,11 +3968,11 @@
     "name": "Je následující tvrzení pravdivé? \"Automatická přetypování probíhá bez dodatečného zásahu programátora\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -3981,11 +3981,11 @@
     "name": "Je následující tvrzení pravdivé? \"Při každé operaci zápisu v souboru se posune ukazatel na aktuální pozici v rámci souboru za zapsaná data.\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -3994,11 +3994,11 @@
     "name": "Je následující tvrzení pro jazyk C pravdivé? \"Funkce opendir() otevře soubor adresáře pro zápis\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -4007,11 +4007,11 @@
     "name": "Je následující tvrzení pravdivé? \"Paměť alokovaná pomocí dynamické alokace je automaticky uvolněna ve chvíli, kdy zanikne poslední ukazatel na ni\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -4020,11 +4020,11 @@
     "name": "Je následující tvrzení pravdivé? \"Volání funkce fopen(filename,\"r+\") umožní ze souboru číst ze souboru kdekoliv, ale zapisovat pouze na konec souboru.\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -4033,11 +4033,11 @@
     "name": "Je následující tvrzení pravdivé? \"Nový řádek je na platformě Windows kódován jako znak \\n (0A hexadecimálně).\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -4046,11 +4046,11 @@
     "name": "Je následující tvrzení pravdivé? \"Ukazatel typu void* se používá v případě, že není nutné znát opravdový typ ukazatele\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -4059,11 +4059,11 @@
     "name": "Je následující tvrzení pravdivé? \"Automatická typová konverze může proběhnout při vrácení návratové hodnoty funkce\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -4072,11 +4072,11 @@
     "name": "Je následující tvrzení pravdivé? \"Funkce main má druhý argument typu char** se jménem argv. Tento argument obsahuje argumenty zadané na příkazové řádce při spuštění programu. První položkou je cesta ke spouštěnému programu\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -4085,11 +4085,11 @@
     "name": "Je následující tvrzení pravdivé? \"Strict aliasing je zaveden z důvodu možnosti větší optimalizace překladačem\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -4098,11 +4098,11 @@
     "name": "Je následující tvrzení pravdivé? \"Funkce fopen otevře zadaný soubor, je nutné vždy zadat absolutní cestu\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -4111,11 +4111,11 @@
     "name": "Je následující tvrzení pravdivé? \"Modifikátor otevření souboru pro binární čtení je \"rb\".\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -4124,11 +4124,11 @@
     "name": "Je následující tvrzení pravdivé? \"Typová konverze na bitové úrovni nemění obsah paměti, pouze mění způsob její interpretace\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -4137,11 +4137,11 @@
     "name": "Je následující tvrzení pravdivé? \"za obsah řetězce jsou považovány znaky do prvního výskytu koncové nuly\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]
@@ -4150,11 +4150,11 @@
     "name": "Je následující tvrzení pravdivé? \"Po provedení funkce realloc() je nutné zkopírovat původní paměť na nové místo pomocí memcpy.\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -4163,11 +4163,11 @@
     "name": "Je následující tvrzení pravdivé? \"Memory leak označuje paměť na zásobníku na kterou již neexistuje ukazatel\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -4176,11 +4176,11 @@
     "name": "Je následující tvrzení pravdivé? \"Proměnná typu funkční ukazatel specifikuje typ návratové hodnoty, jméno funkce a počet a typ argumentů funkce\"",
     "answers": [
       {
-        "right": "false",
+        "right": false,
         "body": "ano"
       },
       {
-        "right": "true",
+        "right": true,
         "body": "ne"
       }
     ]
@@ -4189,11 +4189,11 @@
     "name": "Je následující tvrzení pravdivé? \"Rekurzi je vždy možné nahradit cyklem.\"",
     "answers": [
       {
-        "right": "true",
+        "right": true,
         "body": "ano"
       },
       {
-        "right": "false",
+        "right": false,
         "body": "ne"
       }
     ]

@@ -135,5 +135,5 @@ LOGGING = {
     }
 }
 
-rootURL = 'http://kabell.czechglobe.cz/fi_muni_drill/'
+rootURL = 'https://kabell.sk/fi_muni_drill/'
 

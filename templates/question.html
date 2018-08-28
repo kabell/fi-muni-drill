@@ -2,20 +2,21 @@
     <head>
     {% load staticfiles %}
     <base href="{{ rootURL }}">
-    <link href="{% static "bootstrap/css/bootstrap.min.css" %}" rel="stylesheet"> 
+    <link href="{% static "bootstrap/css/bootstrap.min.css" %}" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <link href="{% static "style.css" %}" rel="stylesheet">
     <link rel="shortcut icon" href="{% static "kabells-testing.png" %}" />
-    
+
     <title>FI MUNI drill</title>
     </head>
     <body>
-    
+
     <a href = "clear/{{ filename }}/{{ id }}">Vymazať štatistiky</a></br>
 
     {% for file_id in zle_otazky %}
     <a  style="float:left; margin-top:5px; margin-bottom:5px;" href="question/{{ filename }}/{{ file_id }}"><div class='answer'>{{ file_id }}</div></a>
     {% endfor %}
-    
+
 <table border='1' width='100%'>
 <tr>
 <td>
@@ -42,18 +43,55 @@ Vitaj v tomto drille.<br/>
 V menu vľavo si vieš vybrať sadu otázok.
 Veľa šťastia.
 {% else %}
-<b>Otázka {{ id }} z {{ questions_count }}</b><br/>
+<b>Otázka {{ id }} z {{ questions_count }} {% if question.multi %} - Viac ako jedna odpoveď môže byť správna {% endif %}</b><br/>
 {% autoescape off %}
 {{ question.task }}<br/>
 
+{% if question.multi %}
+    <script>
+    $(document).ready(function() {
+        $("#submit").on('click', function (e) {
+            e.preventDefault();
+            selected = Array();
+            $.each($(".selected"), function(key, val){
+                selected.push(val.getAttribute('data-answer-id'));
+            });
+            $('#answers-form').attr('action',$('#answers-form').attr('action')+selected.join('.')).submit();
+        });
 
+        $(document).on('click', '#answers-form div.answer', function (e) {
+
+            if ($(this).hasClass('notselected')) {
+                $(this).removeClass('notselected');
+                $(this).addClass('selected');
+                this.setAttribute('data-answer', 1);
+            }
+            else {
+                $(this).removeClass('selected');
+                $(this).addClass('notselected');
+                this.setAttribute('data-answer', 0);
+            }
+        });
+    });
+    </script>
+   <form id="answers-form" action="validate/{{ filename }}/{{ id }}/{{ poradie }}/">
+   {% for ans in question.answers %}
+        <div data-answer-id='{{ ans.id }}' class="answer {{ ans.color }}" >
+        {{  ans.answer }}
+        </div>
+   {% endfor %}
+   <div class='answer submit' id="submit">Vyhodnoť</div>
+   </form>
+
+{% else %}
 {% for ans in question.answers %}
     <a href = "validate/{{ filename }}/{{ id }}/{{ poradie }}/{{ ans.id }}" >
-        <div class="answer" style="background-color:{{ ans.color }}; margin-top:20px;">
+        <div class="answer {{ ans.color }}">
         {{  ans.answer }}
         </div>
     </a>
 {% endfor %}
+{% endif %}
 {% endautoescape %}
 </div>
 <br/>
@@ -66,6 +104,5 @@ Veľa šťastia.
 {% endif %}
 {% endif %}
 </div>
-
 </body>
 </html>

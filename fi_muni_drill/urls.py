@@ -7,9 +7,11 @@ admin.autodiscover()
 urlpatterns = patterns('',
 
     url(r'^$', 'fi_muni_drill.views.question'),
-    
+
     url(r'^(\w+)/(\w+)/(\w+)$', 'fi_muni_drill.views.question'),
-    url(r'^(\w+)/(\w+)/(\w+)/(\w+)/(\w+)$', 'fi_muni_drill.views.question'),
+    url(r'^(\w+)/(\w+)/(\w+)/(\w+)/$', 'fi_muni_drill.views.question'),
+    url(r'^(\w+)/(\w+)/(\w+)/(\w+)/(.*)$', 'fi_muni_drill.views.question'),
+    url(r'^about$', 'fi_muni_drill.views.about'),
 
     # Uncomment the admin/doc line below to enable admin documentation:
     url(r'^admin/doc/', include('django.contrib.admindocs.urls')),

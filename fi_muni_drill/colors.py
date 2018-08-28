@@ -1,3 +1,3 @@
 class Color:
-    OK = '#33FF33'
-    BAD = '#FF3333'
+    OK = 'correct'
+    BAD = 'incorrect'
