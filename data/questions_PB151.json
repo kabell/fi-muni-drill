@@ -1472,10 +1472,6 @@
     ]
   },
   {
-    "name": null,
-    "answers": []
-  },
-  {
     "name": "Přetečení v celočíselné aritmetice ve dvojkovém doplňkovém kódu nastane",
     "answers": [
       {
@@ -1925,10 +1921,6 @@
         "right": false
       }
     ]
-  },
-  {
-    "name": null,
-    "answers": []
   },
   {
     "name": "Osmičková soustava se také nazývá",
@@ -6380,10 +6372,6 @@
         "right": false
       }
     ]
-  },
-  {
-    "name": null,
-    "answers": []
   },
   {
     "name": "Která posloupnost instrukcí může korektně obsloužit time-out při programování V/V operace procesoru definovaného na přednáškách",
