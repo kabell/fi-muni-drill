@@ -1,0 +1,1812 @@
+[
+  {
+    "name": "Social engineering is:",
+    "answers": [
+      {
+        "body": "The science of social behavior university students.",
+        "right": false
+      },
+      {
+        "body": "The science of measurable parameters of Sociology.",
+        "right": false
+      },
+      {
+        "body": "The method of spying sensitive information from users.",
+        "right": true
+      },
+      {
+        "body": "The method of teaching IT specialist.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Outsourcing is:",
+    "answers": [
+      {
+        "body": "Contract that moves responsibilities about certain functional area to external resources",
+        "right": true
+      },
+      {
+        "body": "Delegation of some activities to specialized organization",
+        "right": true
+      },
+      {
+        "body": "Subject is hadovering all responsibilities about some business activity to external resource",
+        "right": true
+      },
+      {
+        "body": "Hiring of programmers in India",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Authentication is:",
+    "answers": [
+      {
+        "body": "Verification of authorized person",
+        "right": false
+      },
+      {
+        "body": "Verification of user identity",
+        "right": true
+      },
+      {
+        "body": "It’s a term equal to Authorization",
+        "right": false
+      },
+      {
+        "body": "It’s authorization of unidentified person",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Once the security incident occurred, it’s correct to:",
+    "answers": [
+      {
+        "body": "Create a record containing all information regarding the incident",
+        "right": true
+      },
+      {
+        "body": "Immediately contact persons or companies suspected of causing the incident",
+        "right": false
+      },
+      {
+        "body": "Return attack the attacker (the System)",
+        "right": false
+      },
+      {
+        "body": "Immediately clean and restore the system and bring it back to operational status.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "RAID 1 is:",
+    "answers": [
+      {
+        "body": "Risk Access ID, prioritize access number 1 in the case of risk situations",
+        "right": false
+      },
+      {
+        "body": "Technology using the block-level stripping",
+        "right": false
+      },
+      {
+        "body": "Technology using mirroring",
+        "right": true
+      },
+      {
+        "body": "Technology using parity disk",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "NAS is:",
+    "answers": [
+      {
+        "body": "Network Attached Storage",
+        "right": true
+      },
+      {
+        "body": "More advanced technology SAN",
+        "right": false
+      },
+      {
+        "body": "The operating system used by Cisco routers",
+        "right": false
+      },
+      {
+        "body": "Device for asynchronous hardware encryption",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Transaction is:",
+    "answers": [
+      {
+        "body": "The smallest unit of work",
+        "right": true
+      },
+      {
+        "body": "Atomic",
+        "right": true
+      },
+      {
+        "body": "Consistent",
+        "right": true
+      },
+      {
+        "body": "Isolated",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Which activities are not a part of Asset Management",
+    "answers": [
+      {
+        "body": "Inventory reconciliations",
+        "right": false
+      },
+      {
+        "body": "SW licence management",
+        "right": false
+      },
+      {
+        "body": "Server monitoring",
+        "right": true
+      },
+      {
+        "body": "Stock Management",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Main tools used for process revalidation (not only) in CF/AM are:",
+    "answers": [
+      {
+        "body": "Customer audit",
+        "right": true
+      },
+      {
+        "body": "Internal audit",
+        "right": true
+      },
+      {
+        "body": "Metrics defined in processes",
+        "right": true
+      },
+      {
+        "body": "SLA - Service Level Agreement",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "What are the basic communication channels for Helpdesk?",
+    "answers": [
+      {
+        "body": "Call",
+        "right": true
+      },
+      {
+        "body": "Email",
+        "right": true
+      },
+      {
+        "body": "WEB tool",
+        "right": true
+      },
+      {
+        "body": "Chat",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "What are the main activities of CSO:",
+    "answers": [
+      {
+        "body": "Service Management",
+        "right": true
+      },
+      {
+        "body": "Monitoring",
+        "right": false
+      },
+      {
+        "body": "Reporting",
+        "right": true
+      },
+      {
+        "body": "Stock Management",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Main processes used (not only) in CSO are:",
+    "answers": [
+      {
+        "body": "Problem Management",
+        "right": true
+      },
+      {
+        "body": "Change Management",
+        "right": true
+      },
+      {
+        "body": "Availability Management ",
+        "right": true
+      },
+      {
+        "body": "Major Incident Management",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "ITIL is not:",
+    "answers": [
+      {
+        "body": "De-facto internationally recognized standard",
+        "right": false
+      },
+      {
+        "body": "Customer oriented",
+        "right": false
+      },
+      {
+        "body": "Platform independent",
+        "right": false
+      },
+      {
+        "body": "EU legal standard",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "What id not a process in ITIL?",
+    "answers": [
+      {
+        "body": "Problem Management",
+        "right": false
+      },
+      {
+        "body": "Capacity Management",
+        "right": false
+      },
+      {
+        "body": "Helpdesk",
+        "right": true
+      },
+      {
+        "body": "Financial Management for IT Services",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which of the below are types possible of Cloud Deployment models:",
+    "answers": [
+      {
+        "body": "Private cloud",
+        "right": false
+      },
+      {
+        "body": "Public cloud",
+        "right": false
+      },
+      {
+        "body": "Hybrid cloud",
+        "right": false
+      },
+      {
+        "body": "All the above",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Which characteristic does not correspond to Cloud:",
+    "answers": [
+      {
+        "body": "On demand Self service",
+        "right": false
+      },
+      {
+        "body": "Flexible Price - pay as you consume",
+        "right": false
+      },
+      {
+        "body": "Dedicated resources - no resource pooling",
+        "right": true
+      },
+      {
+        "body": "Rapid Elasticity ",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Pouzivane nastroje kontroly procesu v OIS (Operation Infrastructure Services) jsou",
+    "answers": [
+      {
+        "body": "zakaznicky audit",
+        "right": true
+      },
+      {
+        "body": "interni audit",
+        "right": true
+      },
+      {
+        "body": "kontrolni meritka stanovena v procesech",
+        "right": true
+      },
+      {
+        "body": "SLA (Service Level Agreement)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Vyhody mainframu proti ostatnim platformam",
+    "answers": [
+      {
+        "body": "spolehlive",
+        "right": true
+      },
+      {
+        "body": "snadna konfigurace a udrzba",
+        "right": false
+      },
+      {
+        "body": "TCO",
+        "right": false
+      },
+      {
+        "body": "vse vyse uvedene",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Hlavni oblasti vyuziti mainframe",
+    "answers": [
+      {
+        "body": "serverova virtualizace, hosting",
+        "right": true
+      },
+      {
+        "body": "simulace realnych stavu, vyzkum",
+        "right": true
+      },
+      {
+        "body": "aplikace pro masivni zpracovani transakci",
+        "right": true
+      },
+      {
+        "body": "matematicke modelovani, vypocty v plovouci carce",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Co nam zajisti ze ve WAN funguji procesy i v pripade stahovani velkeho objemu dat",
+    "answers": [
+      {
+        "body": "Eye of the storm",
+        "right": false
+      },
+      {
+        "body": "QoS",
+        "right": true
+      },
+      {
+        "body": "MPLS",
+        "right": false
+      },
+      {
+        "body": "VPN",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Pomoci jakych nastroju sledujeme vytizeni LAN/WAN",
+    "answers": [
+      {
+        "body": "Tacacs",
+        "right": false
+      },
+      {
+        "body": "Cacti",
+        "right": false
+      },
+      {
+        "body": "Eye of the Storm",
+        "right": true
+      },
+      {
+        "body": "Radius",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Vyrobci sitovych zarizeni",
+    "answers": [
+      {
+        "body": "IBM",
+        "right": true
+      },
+      {
+        "body": "3COM",
+        "right": true
+      },
+      {
+        "body": "NOKIA ",
+        "right": true
+      },
+      {
+        "body": "CISCO",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "SSO znamena",
+    "answers": [
+      {
+        "body": "Server System Operation",
+        "right": false
+      },
+      {
+        "body": "Monitoring a správa vzdálených systémů",
+        "right": true
+      },
+      {
+        "body": "Proaktivní monitoring",
+        "right": true
+      },
+      {
+        "body": "Správa dávkových operací, tisků, zálohovacích procesů",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "MAM se pouziva u",
+    "answers": [
+      {
+        "body": "Message and Alert Management",
+        "right": false
+      },
+      {
+        "body": "iSeries",
+        "right": true
+      },
+      {
+        "body": "zSeries",
+        "right": true
+      },
+      {
+        "body": "...Series",
+        "right": false
+      },
+      {
+        "body": "...Series",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which of the following statements is INCORRECT? The Service Owner:",
+    "answers": [
+      {
+        "body": "Is responsible for the day-to-day monitoring and operation of the service they own",
+        "right": true
+      },
+      {
+        "body": "Is responsible for continual improvement and the management of change affecting the service they own",
+        "right": false
+      },
+      {
+        "body": "Is a primary stakeholder in all of the underlying IT processes which support the service they own",
+        "right": false
+      },
+      {
+        "body": "Is accountable for a specific service within an organization",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which of the following activities are helped by recording relationships between Configuration Items (CIs)? 1. Assessing the impact and cause of Incidents and Problems 2. Assessing the impact of proposed Changes 3. Planning and designing a Change to an existing service 4. Planning a technology refresh or software upgrade",
+    "answers": [
+      {
+        "body": "1 and 2 only",
+        "right": false
+      },
+      {
+        "body": "All of the above",
+        "right": true
+      },
+      {
+        "body": "1, 2 and 4 only",
+        "right": false
+      },
+      {
+        "body": "1, 3 and 4 only",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which Service Design process makes the most use of data supplied by Demand Management?",
+    "answers": [
+      {
+        "body": "Service Catalogue Management",
+        "right": false
+      },
+      {
+        "body": "Service Level Management",
+        "right": false
+      },
+      {
+        "body": "IT Service Continuity Management",
+        "right": false
+      },
+      {
+        "body": "Capacity Management",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Major Incidents require:",
+    "answers": [
+      {
+        "body": "Separate procedures",
+        "right": true
+      },
+      {
+        "body": "Less urgency",
+        "right": false
+      },
+      {
+        "body": "Longer timescales",
+        "right": false
+      },
+      {
+        "body": "Less documentation",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which role or function is responsible for monitoring activities and events in the IT Infrastructure?",
+    "answers": [
+      {
+        "body": "Service Level Management",
+        "right": false
+      },
+      {
+        "body": "IT Operations Management",
+        "right": true
+      },
+      {
+        "body": "Capacity Management",
+        "right": false
+      },
+      {
+        "body": "Incident Management",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "What are the three types of metrics that an organization should collect to support Continual Service Improvement (CSI)?",
+    "answers": [
+      {
+        "body": "Return On Investment (ROI), Value On Investment (VOI), quality",
+        "right": false
+      },
+      {
+        "body": "Strategic, tactical and operational",
+        "right": false
+      },
+      {
+        "body": "Critical Success Factors (CSFs), Key Performance Indicators (KPIs), activities",
+        "right": false
+      },
+      {
+        "body": "Technology, process and service",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Which of the following is NOT a valid objective of Problem Management?",
+    "answers": [
+      {
+        "body": "To prevent Problems and their resultant Incidents",
+        "right": false
+      },
+      {
+        "body": "To manage Problems throughout their lifecycle",
+        "right": false
+      },
+      {
+        "body": "To restore service to a user",
+        "right": true
+      },
+      {
+        "body": "To eliminate recurring Incidents",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Availability Management is responsible for availability of the:",
+    "answers": [
+      {
+        "body": "Services and Components",
+        "right": true
+      },
+      {
+        "body": "Services and Business Processes",
+        "right": false
+      },
+      {
+        "body": "Components and Business Processes",
+        "right": false
+      },
+      {
+        "body": "Services, Components and Business Processes",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Who owns the specific costs and risks associated with providing a service?",
+    "answers": [
+      {
+        "body": "The Service Provider",
+        "right": true
+      },
+      {
+        "body": "The Service Level Manager",
+        "right": false
+      },
+      {
+        "body": "The Customer",
+        "right": false
+      },
+      {
+        "body": "The Finance department",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which of the following are types of communication you could expect the functions within Service Operation to perform? 1. Communication between Data Centre shifts 2. Communication related to changes 3. Performance reporting 4. Routine operational communication",
+    "answers": [
+      {
+        "body": "1 only",
+        "right": false
+      },
+      {
+        "body": "2 and 3 only",
+        "right": false
+      },
+      {
+        "body": "1, 2 and 4 only",
+        "right": false
+      },
+      {
+        "body": "All of the above",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "How many people should be accountable for a process as defined in the RACI model?",
+    "answers": [
+      {
+        "body": "As many as necessary to complete the activity",
+        "right": false
+      },
+      {
+        "body": "Only one - the process owner",
+        "right": true
+      },
+      {
+        "body": "Two - the process owner and the process enactor",
+        "right": false
+      },
+      {
+        "body": "Only one - the process architect",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "What guidance does ITIL give on the frequency of production of service reporting?",
+    "answers": [
+      {
+        "body": "Service reporting intervals must be defined and agreed with the customers",
+        "right": true
+      },
+      {
+        "body": "Reporting intervals should be set by the Service Provider",
+        "right": false
+      },
+      {
+        "body": "Reports should be produced weekly",
+        "right": false
+      },
+      {
+        "body": "Service reporting intervals must be the same for all services",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which of the following is the BEST definition of the term Service Management?",
+    "answers": [
+      {
+        "body": "A set of specialised organizational capabilities for providing value to customers in the form of services",
+        "right": true
+      },
+      {
+        "body": "A group of interacting, interrelated, or independent components that form a unified whole, operating together for a common purpose",
+        "right": false
+      },
+      {
+        "body": "The management of functions within an organization to perform certain activities",
+        "right": false
+      },
+      {
+        "body": "Units of organizations with roles to perform certain activities",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which of the following is NOT a characteristic of a process?",
+    "answers": [
+      {
+        "body": "It is measurable",
+        "right": false
+      },
+      {
+        "body": "Delivers specific results",
+        "right": false
+      },
+      {
+        "body": "Responds to specific events",
+        "right": false
+      },
+      {
+        "body": "A method of structuring an organization",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Which of the following would be defined as part of every process? 1. Roles 2. Activities 3. Functions 4. Responsibilities",
+    "answers": [
+      {
+        "body": "1 and 3 only",
+        "right": false
+      },
+      {
+        "body": "All of the above",
+        "right": false
+      },
+      {
+        "body": "2 and 4 only",
+        "right": false
+      },
+      {
+        "body": "1, 2 and 4 only",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Which of the following statements is CORRECT for every process? 1. It delivers its primary results to a customer or stakeholder 2. It defines activities that are executed by a single function",
+    "answers": [
+      {
+        "body": "Both of the above",
+        "right": false
+      },
+      {
+        "body": "1 only",
+        "right": true
+      },
+      {
+        "body": "Neither of the above",
+        "right": false
+      },
+      {
+        "body": "2 only",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "What is the BEST description of the purpose of Service Operation?",
+    "answers": [
+      {
+        "body": "To decide how IT will engage with suppliers during the Service Management Lifecycle",
+        "right": false
+      },
+      {
+        "body": "To proactively prevent all outages to IT Services",
+        "right": false
+      },
+      {
+        "body": "To design and build processes that will meet business needs",
+        "right": false
+      },
+      {
+        "body": "To deliver and manage IT Services at agreed levels to business users and customers",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Which of the following is the CORRECT definition of a Release Unit?",
+    "answers": [
+      {
+        "body": "A measurement of cost",
+        "right": false
+      },
+      {
+        "body": "A function described within Service Transition",
+        "right": false
+      },
+      {
+        "body": "The team of people responsible for implementing a release",
+        "right": false
+      },
+      {
+        "body": "The portion of a service or IT infrastructure that is normally released together",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Which of the following do Service Metrics measure?",
+    "answers": [
+      {
+        "body": "Processes and functions",
+        "right": false
+      },
+      {
+        "body": "Maturity and cost",
+        "right": false
+      },
+      {
+        "body": "The end to end service",
+        "right": true
+      },
+      {
+        "body": "Infrastructure availability",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "What is the BEST description of a Major Incident?",
+    "answers": [
+      {
+        "body": "An Incident that is so complex that it requires root cause analysis before a workaround can be found",
+        "right": false
+      },
+      {
+        "body": "An Incident which requires a large number of people to resolve",
+        "right": false
+      },
+      {
+        "body": "An Incident logged by a senior manager",
+        "right": false
+      },
+      {
+        "body": "An Incident which has a high priority or high impact on the business",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Event Management, Problem Management, Access Management and Request Fulfilment are part of which stage of the Service Lifecycle?",
+    "answers": [
+      {
+        "body": "Service Strategy",
+        "right": false
+      },
+      {
+        "body": "Service Transition",
+        "right": false
+      },
+      {
+        "body": "Service Operation",
+        "right": true
+      },
+      {
+        "body": "Continual Service Improvement",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which Functions are included in IT Operations Management?",
+    "answers": [
+      {
+        "body": "Network Management and Application Management",
+        "right": false
+      },
+      {
+        "body": "Technical Management and Change Management",
+        "right": false
+      },
+      {
+        "body": "IT Operations Control and Facilities Management",
+        "right": true
+      },
+      {
+        "body": "Facilities Management and Release Management",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "What is the Service Pipeline?",
+    "answers": [
+      {
+        "body": "All services that are at a conceptual or development stage",
+        "right": true
+      },
+      {
+        "body": "All services except those that have been retired",
+        "right": false
+      },
+      {
+        "body": "All services that are contained within the Service Level Agreement (SLA)",
+        "right": false
+      },
+      {
+        "body": "All complex multi-user services",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Defining the processes needed to operate a new service is part of:",
+    "answers": [
+      {
+        "body": "Service Design: Design the processes",
+        "right": true
+      },
+      {
+        "body": "Service Strategy: Develop the offerings",
+        "right": false
+      },
+      {
+        "body": "Service Transition: Plan and prepare for deployment",
+        "right": false
+      },
+      {
+        "body": "Service Operation: IT Operations Management",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which of these are objectives of Service Level Management 1: Defining, documenting and agreeing the level of IT Services to be provided 2: Monitoring, measuring and reporting the actual level of services provided 3: Monitoring and improving customer satisfaction 4: Identifying possible future markets that the Service Provider could operate in",
+    "answers": [
+      {
+        "body": "1, 2 and 3 only",
+        "right": true
+      },
+      {
+        "body": "1 and 2 only",
+        "right": false
+      },
+      {
+        "body": "1, 2 and 4 only",
+        "right": false
+      },
+      {
+        "body": "All of the above",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which process is responsible for managing relationships with vendors?",
+    "answers": [
+      {
+        "body": "Change Management",
+        "right": false
+      },
+      {
+        "body": "Service Portfolio Management",
+        "right": false
+      },
+      {
+        "body": "Supplier Management",
+        "right": true
+      },
+      {
+        "body": "Continual Service Improvement",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Data used to support the capacity management process should be stored in:",
+    "answers": [
+      {
+        "body": "A configuration management database (CMDB)",
+        "right": false
+      },
+      {
+        "body": "A capacity database (CDB)",
+        "right": false
+      },
+      {
+        "body": "A configuration management system (CMS)",
+        "right": false
+      },
+      {
+        "body": "A capacity management information system (CMIS)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Who is responsible for defining Key Performance Indicators (KPIs) for Change Management?",
+    "answers": [
+      {
+        "body": "The Change Management Process Owner",
+        "right": true
+      },
+      {
+        "body": "The Change Advisory Board (CAB)",
+        "right": false
+      },
+      {
+        "body": "The Service Owner",
+        "right": false
+      },
+      {
+        "body": "The Continual Service Improvement Manager",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which statement about Service Level Agreements(SLAs) is CORRECT?",
+    "answers": [
+      {
+        "body": "They must contain legal wording because of their importance",
+        "right": false
+      },
+      {
+        "body": "There should always be a separate SLA for each specific customer",
+        "right": false
+      },
+      {
+        "body": "The wording must be clear and concise to allow no room for ambiguity",
+        "right": true
+      },
+      {
+        "body": "Changes to the SLA can only be requested by the customer",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which of the following is NOT a Service Desk type recognised in the Service Operation volume of ITIL?",
+    "answers": [
+      {
+        "body": "Local",
+        "right": false
+      },
+      {
+        "body": "Centralised",
+        "right": false
+      },
+      {
+        "body": "Holistic",
+        "right": true
+      },
+      {
+        "body": "Virtual",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Match the following activities with the Deming Cycle stages 1. Monitor, Measure and Review 2. Continual Improvement 3. Implement Initiatives 4. Plan for Improvement",
+    "answers": [
+      {
+        "body": "1 Plan, 2 Do, 3 Check, 4 Act",
+        "right": false
+      },
+      {
+        "body": "3 Plan, 2 Do, 4 Check, 1 Act",
+        "right": false
+      },
+      {
+        "body": "4 Plan, 3 Do, 1 Check, 2 Act",
+        "right": true
+      },
+      {
+        "body": "2 Plan, 3 Do, 4 Check, 1 Act",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Contracts are used to define:",
+    "answers": [
+      {
+        "body": "The provision of IT services or business services by a Service Provider",
+        "right": false
+      },
+      {
+        "body": "The provision of goods and services by Suppliers",
+        "right": true
+      },
+      {
+        "body": "Service Levels that have been agreed between the Service Provider and their Customer",
+        "right": false
+      },
+      {
+        "body": "Metrics and Critical Success Factors (CSFs) in an external agreement",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "What would be the next step in the Continual Service Improvement (CSI) Model after: 1. What is the vision? 2. Where are we now? 3. Where do we want to be? 4. How do we get there? 5. Did we get there? 6. ?",
+    "answers": [
+      {
+        "body": "What is the Return On Investment (ROI)?",
+        "right": false
+      },
+      {
+        "body": "How much did it cost?",
+        "right": false
+      },
+      {
+        "body": "How do we keep the momentum going?",
+        "right": true
+      },
+      {
+        "body": "What is the Value On Investment (VOI)?",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Service Transition contains detailed descriptions of which processes?",
+    "answers": [
+      {
+        "body": "Change Management, Service Asset and Configuration Management, Release and Deployment Management",
+        "right": true
+      },
+      {
+        "body": "Change Management, Capacity Management, Event Management, Service Request Management",
+        "right": false
+      },
+      {
+        "body": "Service Level Management, Service Portfolio Management, Service Asset and Configuration Management",
+        "right": false
+      },
+      {
+        "body": "Service Asset and Configuration Management, Release and Deployment Management, Request Fulfilment",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which of the following options is a hierarchy that is used in Knowledge Management?",
+    "answers": [
+      {
+        "body": "Wisdom - Information - Data - Knowledge",
+        "right": false
+      },
+      {
+        "body": "Data - Information - Knowledge - Wisdom",
+        "right": true
+      },
+      {
+        "body": "Knowledge - Wisdom - Information - Data",
+        "right": false
+      },
+      {
+        "body": "Information - Data - Knowledge - Wisdom",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Within Service Design, what is the key output handed over to Service Transition?",
+    "answers": [
+      {
+        "body": "Measurement, methods and metrics",
+        "right": false
+      },
+      {
+        "body": "Service Design Package",
+        "right": true
+      },
+      {
+        "body": "Service Portfolio Design",
+        "right": false
+      },
+      {
+        "body": "Process definitions",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which of the following BEST describes a Change Authority?",
+    "answers": [
+      {
+        "body": "The Change Advisory Board",
+        "right": false
+      },
+      {
+        "body": "A person that provides formal authorisation for a particular type of change.",
+        "right": false
+      },
+      {
+        "body": "A role, person or a group of people that provides formal authorisation for a particular type of change.",
+        "right": true
+      },
+      {
+        "body": "The Change Manager who provides formal authorisation for each change",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which of these statements about Resources and Capabilities is CORRECT?",
+    "answers": [
+      {
+        "body": "Resources are types of Service Asset and Capabilities are not",
+        "right": false
+      },
+      {
+        "body": "Resources and Capabilities are both types of Service Asset",
+        "right": true
+      },
+      {
+        "body": "Capabilities are types of Service Asset and Resources are not",
+        "right": false
+      },
+      {
+        "body": "Neither Capabilities nor Resources are types of Service Asset",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which of these is the correct set of steps for the Continual Service Improvement Model?",
+    "answers": [
+      {
+        "body": "Devise a strategy; Design the solution; Transition into production; Operate the solution; Continually Improve",
+        "right": false
+      },
+      {
+        "body": "Where do we want to be?; How do we get there?; How do we check we arrived?; How do we keep the momentum going?",
+        "right": false
+      },
+      {
+        "body": "Identify the required business outcomes; Plan how to achieve the outcomes; Implement the plan; Check the plan has been properly implemented; Improve the solution",
+        "right": false
+      },
+      {
+        "body": "What is the vision?; Where are we now?; Where do we want to be?; How do we get there?; Did we get there?; How do we keep the momentum going?",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Which of the following is NOT one of the five individual aspects of Service Design?",
+    "answers": [
+      {
+        "body": "The design of the Service Portfolio, including the Service Catalogue",
+        "right": false
+      },
+      {
+        "body": "The design of new or changed services",
+        "right": false
+      },
+      {
+        "body": "The design of Market Spaces",
+        "right": true
+      },
+      {
+        "body": "The design of the technology architecture and management systems",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which of the following statements is INCORRECT? The Service Owner:",
+    "answers": [
+      {
+        "body": "Is responsible for the day-to-day monitoring and operation of the service they own",
+        "right": true
+      },
+      {
+        "body": "Is responsible for continual improvement and the management of change affecting the service they own",
+        "right": false
+      },
+      {
+        "body": "Is a primary stakeholder in all of the underlying IT processes which support the service they own",
+        "right": false
+      },
+      {
+        "body": "Is accountable for a specific service within an organization",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "A Process Owner has been identified with an I in a RACI matrix. Which of the following would be expected of them?",
+    "answers": [
+      {
+        "body": "Tell others about the progress of an activity",
+        "right": false
+      },
+      {
+        "body": "Perform an activity",
+        "right": false
+      },
+      {
+        "body": "Be kept up to date on the progress of an activity",
+        "right": true
+      },
+      {
+        "body": "Manage an activity",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which of the following is MOST concerned with the design of new or changed services?",
+    "answers": [
+      {
+        "body": "Change Management",
+        "right": false
+      },
+      {
+        "body": "Service Transition",
+        "right": false
+      },
+      {
+        "body": "Service Strategy",
+        "right": false
+      },
+      {
+        "body": "Service Design",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Which of the following is NOT a benefit of using public frameworks and standards?",
+    "answers": [
+      {
+        "body": "Knowledge of public frameworks is more likely to be widely distributed",
+        "right": false
+      },
+      {
+        "body": "They are always free ensuring they can be implemented quickly",
+        "right": true
+      },
+      {
+        "body": "They are validated across a wide range of environments making the more robust",
+        "right": false
+      },
+      {
+        "body": "They make collaboration between organizations easier by giving a common language",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which of the following BEST describes the goal of Access Management?",
+    "answers": [
+      {
+        "body": "To provide a channel for users to request and receive standard services",
+        "right": false
+      },
+      {
+        "body": "Provides the rights for users to be able to use a service or group of services",
+        "right": true
+      },
+      {
+        "body": "To prevent Problems and resulting Incidents from happening",
+        "right": false
+      },
+      {
+        "body": "To detect security events and make sense of them",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which of the following is an objective of Release and Deployment Management?",
+    "answers": [
+      {
+        "body": "To standardize methods and procedures used for efficient and prompt handling of all Changes",
+        "right": false
+      },
+      {
+        "body": "To ensure all changes to Service Assets and Configuration Items (CIs) are recorded in the Configuration Management System (CMS)",
+        "right": false
+      },
+      {
+        "body": "To ensure that overall business risk of Change is optimized",
+        "right": false
+      },
+      {
+        "body": "To define and agree release and deployment plans with customers and stakeholders",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Ensuring that the confidentiality, integrity and availability of the services are maintained to the levels agreed on the Service Level Agreement (SLA) is the responsibility of which role?",
+    "answers": [
+      {
+        "body": "The Service Level Manager",
+        "right": false
+      },
+      {
+        "body": "The Configuration Manager",
+        "right": false
+      },
+      {
+        "body": "The Change Manager",
+        "right": false
+      },
+      {
+        "body": "The Information Security Manager",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "In terms of adding value to the business, which of the following describes Service Operation´s contribution?",
+    "answers": [
+      {
+        "body": "The cost of the service is designed, predicted and validated",
+        "right": false
+      },
+      {
+        "body": "Measures for optimization are identified",
+        "right": false
+      },
+      {
+        "body": "Service value is modelled",
+        "right": false
+      },
+      {
+        "body": "Service value is actually seen by customers",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "A consultant has made two recommendations to you in a report: 1. To include legal terminology in your Service Level Agreements(SLAs) 2. It is not necessary to be able to measure all the targets in an SLA; Which of the recommendations conform to Service Level Management good practice?",
+    "answers": [
+      {
+        "body": "1 only",
+        "right": false
+      },
+      {
+        "body": "2 only",
+        "right": false
+      },
+      {
+        "body": "Both of the above",
+        "right": false
+      },
+      {
+        "body": "Neither of the above",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Which stage of the Change Management process deals with whatshould be done if the change is unsuccessful?",
+    "answers": [
+      {
+        "body": "Remediation Planning",
+        "right": true
+      },
+      {
+        "body": "Categorization",
+        "right": false
+      },
+      {
+        "body": "Prioritization",
+        "right": false
+      },
+      {
+        "body": "Review and Close",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which of the following is the BEST description of a relationship in Service Asset and Configuration Management?",
+    "answers": [
+      {
+        "body": "Describes the topography of the hardware",
+        "right": false
+      },
+      {
+        "body": "Describes how the Configuration Items (CIs) work together to deliver the services",
+        "right": true
+      },
+      {
+        "body": "Defines which software should be installed on a particular piece of hardware",
+        "right": false
+      },
+      {
+        "body": "Defines how version numbers should be used in a release",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which of the following would a Major Problem Review examine? 1. Things that were done correctly 2. Those things that were done incorrectly 3. How to prevent recurrence 4. What could be done better in the future",
+    "answers": [
+      {
+        "body": "1 only",
+        "right": false
+      },
+      {
+        "body": "2 and 3 only",
+        "right": false
+      },
+      {
+        "body": "1, 2 and 4 only",
+        "right": false
+      },
+      {
+        "body": "All of the above",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Which process is responsible for eliminating recurring incidents and minimizing the impact of incidents that cannot be prevented?",
+    "answers": [
+      {
+        "body": "Service Level Management",
+        "right": false
+      },
+      {
+        "body": "Problem Management",
+        "right": true
+      },
+      {
+        "body": "Change Management",
+        "right": false
+      },
+      {
+        "body": "Event Management",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which process will regularly analyze incident data to identify discernable trends?",
+    "answers": [
+      {
+        "body": "Service Level Management",
+        "right": false
+      },
+      {
+        "body": "Problem Management",
+        "right": true
+      },
+      {
+        "body": "Change Management",
+        "right": false
+      },
+      {
+        "body": "Event Management",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which process is primarily supported by the analysis of Patterns of Business Activity (PBA)?",
+    "answers": [
+      {
+        "body": "Availability Management",
+        "right": false
+      },
+      {
+        "body": "Demand Management",
+        "right": true
+      },
+      {
+        "body": "Financial Management",
+        "right": false
+      },
+      {
+        "body": "Service Level Management",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "As a strategic tool for assessing the value of IT services, Financial Management applies to which of the following service provider types? 1. An internal service provider embedded within a business unit 2. An internal service provider that provides shared IT services 3. An external service provider",
+    "answers": [
+      {
+        "body": "All of the above",
+        "right": true
+      },
+      {
+        "body": "1 and 2 only",
+        "right": false
+      },
+      {
+        "body": "1 and 3 only",
+        "right": false
+      },
+      {
+        "body": "2 and 3 only",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which of the following statements is CORRECT?",
+    "answers": [
+      {
+        "body": "IT Service Continuity Management can only take place once Business Continuity Management has been established",
+        "right": false
+      },
+      {
+        "body": "Where Business Continuity Management is established, business continuity considerations should form the focus for IT Service Continuity Management",
+        "right": true
+      },
+      {
+        "body": "Business Continuity Management and IT Service Continuity Management must be established at the same time",
+        "right": false
+      },
+      {
+        "body": "IT Service Continuity Management is not required when IT is outsourced to a third party provider",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Configuration Management Databases (CMDBs) and the Configuration Management System (CMS) are both elements of what larger entity?",
+    "answers": [
+      {
+        "body": "The Asset Register",
+        "right": false
+      },
+      {
+        "body": "The Service Knowledge Management System",
+        "right": true
+      },
+      {
+        "body": "The Known Error Database",
+        "right": false
+      },
+      {
+        "body": "The Information Management System",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which of the following is NOT an objective of Continual Service Improvement?",
+    "answers": [
+      {
+        "body": "Review and analyse Service Level Achievement results",
+        "right": false
+      },
+      {
+        "body": "Identify activities to improve the efficiency of service management processes",
+        "right": false
+      },
+      {
+        "body": "Improve the cost effectiveness of IT services without sacrificing customer satisfaction",
+        "right": false
+      },
+      {
+        "body": "Conduct activities to deliver and manage services at agreed levels to business users",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Which of the following Availability Management activities are considered to be proactive as opposed to reactive? 1. Risk assessment 2. Testing of resilience mechanisms 3. Monitoring of component availability",
+    "answers": [
+      {
+        "body": "All of the above",
+        "right": false
+      },
+      {
+        "body": "1 and 2 only",
+        "right": true
+      },
+      {
+        "body": "1 and 3 only",
+        "right": false
+      },
+      {
+        "body": "2 and 3 only",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Customer perceptions and business outcomes help to define what?",
+    "answers": [
+      {
+        "body": "The value of a service",
+        "right": true
+      },
+      {
+        "body": "Customer satisfaction",
+        "right": false
+      },
+      {
+        "body": "Total Cost of Ownership (TCO)",
+        "right": false
+      },
+      {
+        "body": "Key Performance Indicators (KPIs)",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Undertaking a gap analysis is a key activity within which part of the Deming Cycle for improving services and service management processes?",
+    "answers": [
+      {
+        "body": "Plan",
+        "right": true
+      },
+      {
+        "body": "Do",
+        "right": false
+      },
+      {
+        "body": "Check",
+        "right": false
+      },
+      {
+        "body": "Act",
+        "right": false
+      }
+    ]
+  }
+]
