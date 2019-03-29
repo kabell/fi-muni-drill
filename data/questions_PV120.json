@@ -1,0 +1,639 @@
+[
+  {
+    "name": "Listina základních práv a svobod zaručuje",
+    "answers": [
+      {
+        "body": "listovní tajemství písemností uchovávaných v soukromí",
+        "right": true
+      },
+      {
+        "body": "listovní tajemství písemností zasílaných poštou",
+        "right": true
+      },
+      {
+        "body": "tajemství zpráv podávaných telefonem",
+        "right": true
+      },
+      {
+        "body": "tajemství zpráv podávaných elektronickou poštou",
+        "right": true
+      },
+      {
+        "body": "právo na zachování dobré pověsti",
+        "right": true
+      },
+      {
+        "body": " právo na ochranu obchodního tajemství",
+        "right": false
+      },
+      {
+        "body": "právo na ochranu jména",
+        "right": true
+      },
+      {
+        "body": "právo na ochranu před neoprávněným shromaždováním osobních údajů",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Obrazové a zvukové záznamy týkající se fyzické osoby mohou být pořízeny",
+    "answers": [
+      {
+        "body": "s jejím souhlasem",
+        "right": true
+      },
+      {
+        "body": " bez jejího souhlasu",
+        "right": false
+      },
+      {
+        "body": "k účelům úředním na základě zákona",
+        "right": true
+      },
+      {
+        "body": "na základě zpravodajské licence",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Po smrti fyzické osoby přísluší uplatňovat právo na",
+    "answers": [
+      {
+        "body": "ochranu její osobnosti jejím dětem",
+        "right": true
+      },
+      {
+        "body": " ochranu její osobnosti jejím dědicům",
+        "right": false
+      },
+      {
+        "body": " náhradu škody způsobené neoprávněným zásahem do práva na ochranu osobnosti dětem",
+        "right": false
+      },
+      {
+        "body": "náhradu škody způsobené neoprávněným zásahem do práva na ochranu osobnosti dědicům",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Písemnosti osobní povahy mohou být použity",
+    "answers": [
+      {
+        "body": "se souhlasem osoby, která je vytvořila",
+        "right": true
+      },
+      {
+        "body": " bez souhlasu osoby, která je vytvořila",
+        "right": false
+      },
+      {
+        "body": "k účelům úředním na základě zákona",
+        "right": true
+      },
+      {
+        "body": " na základě zpravodajské licence",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Obchodní tajemství",
+    "answers": [
+      {
+        "body": "je vždy předmětem práv náležejících k podniku",
+        "right": true
+      },
+      {
+        "body": " patří vždy do majetku obchodní společnosti",
+        "right": false
+      },
+      {
+        "body": "jedná se o autorská práva a technické vynálezy",
+        "right": true
+      },
+      {
+        "body": " je zaznamenáno u Úřadu průmyslového vlastnictví",
+        "right": false
+      },
+      {
+        "body": "zahrnuje tehcnické licence a autorská práva naležející k podniku",
+        "right": true
+      },
+      {
+        "body": " registruje se u Úřadu průmyslového vlastnictví",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Při porušení nebo ohrožení práva na obchodní tajemství má dotknutý právo na",
+    "answers": [
+      {
+        "body": "odstranění závadného stavu",
+        "right": true
+      },
+      {
+        "body": " zaplacení pokuty",
+        "right": false
+      },
+      {
+        "body": "zadostiučinění",
+        "right": true
+      },
+      {
+        "body": "vydáni bezdůvodného obohacení",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Majetková autorská práva",
+    "answers": [
+      {
+        "body": "jejich držitelem může být pouze fyzická osoba způsobilá k právním úkonům, která dílo vytvořila",
+        "right": true
+      },
+      {
+        "body": " obecně trvají 50 let po smrti autora",
+        "right": false
+      },
+      {
+        "body": "nelze se jich vzdát a jsou nepřevoditelná",
+        "right": true
+      },
+      {
+        "body": "po smrti autora přecházeji jeho dědice",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Osobnostní autorská práva",
+    "answers": [
+      {
+        "body": "autorem může být pouze fyzická osoba způsobilá k právním úkonům",
+        "right": true
+      },
+      {
+        "body": "o zveřejnění díla rozhoduje autor",
+        "right": true
+      },
+      {
+        "body": "autorství je nepřevoditelné a autor se jej nemůže vzdát",
+        "right": true
+      },
+      {
+        "body": " smrtí autora přechází autorská práva na dědice",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Omezení autorského práva",
+    "answers": [
+      {
+        "body": "pro osobní potřebu může být vždy dílo užito bez svolení autora",
+        "right": true
+      },
+      {
+        "body": "citace cizího díla nejsou zásahem do autorských práv",
+        "right": true
+      },
+      {
+        "body": "nevýdělečné užití díla při školních představních není zásahem do autorských práv",
+        "right": true
+      },
+      {
+        "body": " majetková práva ke školnímu dílu vykonáva škola",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Počítačový program",
+    "answers": [
+      {
+        "body": "je chráněn stejně jako literární dílo",
+        "right": true
+      },
+      {
+        "body": " myšlenky, princípy a přípravné koncepční materiály jsou chráněny jako součást počítačového programu",
+        "right": false
+      },
+      {
+        "body": "oprávněný uživatel počítačového programu v něm smí opravovat chyby",
+        "right": true
+      },
+      {
+        "body": " uživatel počítačového programu nesmí zhotovovat jeho záložní kopie",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Zaměstnanecký vztah",
+    "answers": [
+      {
+        "body": "veškerá práva k dílům vykonává zaměstnanec",
+        "right": true
+      },
+      {
+        "body": "po zániku právnické osoby bez právního nástupce přecházejí práva na autora",
+        "right": true
+      },
+      {
+        "body": " při zhotovení počítačového programu na objednávku má autor právo na přiměřenou dodatečnou odměnu",
+        "right": false
+      },
+      {
+        "body": "počítačové programy se považují za zaměstnanecká díla i tehdy, byla-li autorem vytvořena na objednávku",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Při porušení autorského práva má autor právo se domáhat",
+    "answers": [
+      {
+        "body": "odstranění následků neoprávněných zásahů do autorského práva",
+        "right": true
+      },
+      {
+        "body": " zaplacení pokuty",
+        "right": false
+      },
+      {
+        "body": "zadostiučinění",
+        "right": true
+      },
+      {
+        "body": "vydání neoprávněného obohacení",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Právo průmyslového vlastnictví chráni",
+    "answers": [
+      {
+        "body": " autorská díla",
+        "right": false
+      },
+      {
+        "body": "biotechnologické vynálezy",
+        "right": true
+      },
+      {
+        "body": " obchodní tajemství",
+        "right": false
+      },
+      {
+        "body": "zlepšovací návrhy",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Vynálezy",
+    "answers": [
+      {
+        "body": "patentovatelné jsou jen nové vynálezy",
+        "right": true
+      },
+      {
+        "body": "patentovatelné jsou jen průmyslově využitelné vynálezy",
+        "right": true
+      },
+      {
+        "body": "patent nemůže být nikdy udělen na počítačový program",
+        "right": true
+      },
+      {
+        "body": "právo k patentu má jeho autor",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Zánik patentu",
+    "answers": [
+      {
+        "body": " majitel patentu je povinnen vynález prakticky využívat",
+        "right": false
+      },
+      {
+        "body": " patent může být zrušen, pokud jej majitel nevyužívá",
+        "right": false
+      },
+      {
+        "body": "patent zaniká, uplyne-li doba jeho platnosti",
+        "right": true
+      },
+      {
+        "body": "patent zaniká, nezaplatí-li majitel poplatky za udržování platnosti patentu",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Databáze",
+    "answers": [
+      {
+        "body": " se považuje za souborné autorské dílo",
+        "right": false
+      },
+      {
+        "body": " majetkové autorské právo k databázi trvá 15 let od jejího pořizení",
+        "right": false
+      },
+      {
+        "body": " může být neomezeně vytěžována jen, je-li veřejně přístupná",
+        "right": false
+      },
+      {
+        "body": " může být neomezeně vytěžována pro osobní potřebu uživatele",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Správce je povinnen",
+    "answers": [
+      {
+        "body": "prokázat souhlas subjektu údajů po celou dobu zpracovávání",
+        "right": true
+      },
+      {
+        "body": "informovat subjekt údajů, kdo a jakým způsobem bude údaje zpracovávat",
+        "right": true
+      },
+      {
+        "body": "informovat subjekt údajů, komu mohou být jeho údaje zpřístupněny",
+        "right": true
+      },
+      {
+        "body": " pravidelně jednou ročně zaslat subjektu údajů ... zpracovávaných",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Bez souhlasu subjektu údajů může správce zpracovávat osobní údaje",
+    "answers": [
+      {
+        "body": "jestliže provádí zpracování upravené zvlášním zákonem",
+        "right": true
+      },
+      {
+        "body": "jestliže provádí zpracování nezbytné pro dodržení právní povinnosti správce",
+        "right": true
+      },
+      {
+        "body": "je-li to nezbytné k ochraně životně důležitých zájmu subjektu údajů",
+        "right": true
+      },
+      {
+        "body": "pokládá-li to za nezbytné k ochrane svých zájmu",
+        "right": true
+      },
+      {
+        "body": "na základě písemné smlouvy se subjektem údajů",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Citlivé údaje může správce zpracovat",
+    "answers": [
+      {
+        "body": "jestliže je zpracování nezbytné pro zajištení a uplatnění právnich nároků",
+        "right": true
+      },
+      {
+        "body": "pokládá-li to za nezbytné k ochraně životně důležitých zájmu subjektu údajů",
+        "right": true
+      },
+      {
+        "body": " pokládá-li to za nezbytné k ochrane svých zájmu",
+        "right": false
+      },
+      {
+        "body": "na základě písemné smlouvy se subjektem údajů",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Při porušení povinností při zpracování osobních údajů má subjekt údajů právo domáhat se",
+    "answers": [
+      {
+        "body": "odstranění následků takového jednání",
+        "right": true
+      },
+      {
+        "body": "zaplacení pokuty",
+        "right": true
+      },
+      {
+        "body": "zadostučinění",
+        "right": true
+      },
+      {
+        "body": "vydání bezdůvodného obohacení",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Zaměstnanci správce",
+    "answers": [
+      {
+        "body": " musí uzavřít dohodu o ochraně zpracovávaných dat",
+        "right": false
+      },
+      {
+        "body": "mohou zpracovávat osobní údaje pouze v rozsahu stanoveným  správcem",
+        "right": true
+      },
+      {
+        "body": "mají doživotní povinnost mlčenlivosti o zpracovávných informacích",
+        "right": true
+      },
+      {
+        "body": "mají doživotní povinnost mlčenlivosti o bezpečnostních opatřeních, jejichž zveřejnění by ohrozilo zabezpečení osobních údajů",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Podle zákona o svobodném přístupu k informacím jsou",
+    "answers": [
+      {
+        "body": "povinnými subjekty státní orgány",
+        "right": true
+      },
+      {
+        "body": "povinnými subjekty všichni, kdo hospodaří s veřejnými prostředky",
+        "right": true
+      },
+      {
+        "body": "žadateli fyzické osoby způsobilé k právním úkonům",
+        "right": true
+      },
+      {
+        "body": "žadateli veškeré právnické osoby",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Podle zákona o svobodném přístupu k informacím nesmí být poskytnuty informace, které jsou",
+    "answers": [
+      {
+        "body": "utajovanými informacemi",
+        "right": true
+      },
+      {
+        "body": "obchodním tajemstvím",
+        "right": true
+      },
+      {
+        "body": " osobními údaji",
+        "right": false
+      },
+      {
+        "body": " informacemi o rozhodnutíc orgánů státní správy",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Informace vyžádaná podle zákona o svobodném přístupu k informacím se předá",
+    "answers": [
+      {
+        "body": "zveřejněním na úřední desce",
+        "right": true
+      },
+      {
+        "body": "zveřejněním dálkovým přístupem (Internet)",
+        "right": true
+      },
+      {
+        "body": "odkazem na zveřejněnou informaci",
+        "right": true
+      },
+      {
+        "body": "písemně",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Osobní údaje",
+    "answers": [
+      {
+        "body": "určitelnou osobou je osoba, o níž je známo jméno, příjmení, bydliště a datum narození",
+        "right": true
+      },
+      {
+        "body": "citlivým údajem je příslušnost k politické straně nebo hnutí",
+        "right": true
+      },
+      {
+        "body": "osobní údaj může být anonymizován",
+        "right": true
+      },
+      {
+        "body": " údaje o osobě se dělí na osobní a neosobní",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Při neoprávněném zveřejnění osobních údajů má subjekt údajů právo žádat",
+    "answers": [
+      {
+        "body": "odstranění způsobených škod",
+        "right": true
+      },
+      {
+        "body": "zaplacení pokuty",
+        "right": true
+      },
+      {
+        "body": "zadostiučinění",
+        "right": true
+      },
+      {
+        "body": "vydání bezdůvodného obohacení",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Utajované informace mohou být poskytovány organizaci, která",
+    "answers": [
+      {
+        "body": "je administrativně bezpečná",
+        "right": true
+      },
+      {
+        "body": "není v likvidaci či v konkursu",
+        "right": true
+      },
+      {
+        "body": "má certifikovaný vnitřní informační systém",
+        "right": true
+      },
+      {
+        "body": "vypracovala bezpečnostní projekt",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Trestné činy v souvislosti s utajovanými informacemi",
+    "answers": [
+      {
+        "body": " projednávají vojenské soudy",
+        "right": false
+      },
+      {
+        "body": "vyzvedačství může být trestáno vyjimečným trestem",
+        "right": true
+      },
+      {
+        "body": "ohrožení utajované informace je trestné, i když je spácháno z nedbalosti",
+        "right": true
+      },
+      {
+        "body": " vyzvedačství utajované informace v kategorií Vyhrazené je přestupkem",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "V souvislosti s ochranou utajovaných informací...",
+    "answers": [
+      {
+        "body": "dodržovat nutná omezení stanovená vládou",
+        "right": true
+      },
+      {
+        "body": "podrobit se bezpečnostní prověrce",
+        "right": true
+      },
+      {
+        "body": "odevzdat nalezenou utajovanou informaci",
+        "right": true
+      },
+      {
+        "body": "zachovávat mlčenlivost o utajovaných informacích",
+        "right": true
+      }
+    ]
+  }
+]
