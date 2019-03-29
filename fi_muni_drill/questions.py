@@ -14,7 +14,7 @@ class Questions():
 
         with open(settings.BASE_DIR+'/data/questions_'+path+'.json', encoding='utf-8') as f:
             data = json.load(f)
-            multi_answers = ['PV157', 'PV157_midterm','PV119']
+            multi_answers = ['PV157', 'PV157_midterm','PV119', 'PV203', 'PV120']
             multi = False
             if path in multi_answers:
                 multi = True
