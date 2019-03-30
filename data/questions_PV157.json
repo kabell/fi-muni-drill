@@ -1421,7 +1421,7 @@
       },
       {
         "body": "Špatná průkaznost nelegitimní autorizace platby pomocí PINu.",
-        "right": false
+        "right": true
       },
       {
         "body": "Velká obtížnost kopírování karty.",
@@ -1715,7 +1715,7 @@
     ]
   },
   {
-    "name": "Která z následujících tvrzení jsou platná pro protokol SSL/TLS? !!!",
+    "name": "Která z následujících tvrzení jsou platná pro protokol SSL/TLS?",
     "answers": [
       {
         "body": "Autentizace komunikujících stran je založena na symetrické kryptografii.",
@@ -1992,7 +1992,7 @@
       },
       {
         "body": "procesy nesmějí zapisovat data do nižší úrovně",
-        "right": false
+        "right": true
       },
       {
         "body": "zachovává integritu dat",
@@ -2545,11 +2545,11 @@
         "right": true
       },
       {
-        "body": "Kombinace IP, MAC, GUID (global unique identifier). (ne 100%)",
+        "body": "Kombinace IP, MAC, GUID (global unique identifier).",
         "right": false
       },
       {
-        "body": "Kombinace IP adresy a tajného klíče symetrické kryptografie. (ne 100%)",
+        "body": "Kombinace IP adresy a tajného klíče symetrické kryptografie.",
         "right": false
       },
       {
@@ -2559,7 +2559,7 @@
     ]
   },
   {
-    "name": "Která z následujících tvrzení jsou platná pro protokol SSL/TLS? !!!",
+    "name": "Která z následujících tvrzení jsou platná pro protokol SSL/TLS?",
     "answers": [
       {
         "body": "SSL/TLS protokol nezajišťuje důvěrnost dat.",
@@ -2842,7 +2842,7 @@
         "right": true
       },
       {
-        "body": "Možnost impersonace (ne 100%)",
+        "body": "Možnost impersonace",
         "right": false
       },
       {
@@ -3685,7 +3685,7 @@
     "name": "Mezi skryté kanály (covert channels) patří: ",
     "answers": [
       {
-        "body": "čítač vadných sektorů (Bad Blocks Counter, BBC) (ne 100%)",
+        "body": "čítač vadných sektorů (Bad Blocks Counter, BBC)",
         "right": false
       },
       {
@@ -4242,6 +4242,10 @@
       {
         "body": "Podvržením serveru útočníkovým strojem",
         "right": true
+      },
+      {
+        "body": "Změnou souboru s veřejným klíčem serveru na uživatelově PC",
+        "right": true
       }
     ]
   },
@@ -4364,6 +4368,10 @@
       {
         "body": "Obtížně zapamatovatelná hesla a každý měsíc nutit uživatele ke změně",
         "right": false
+      },
+      {
+        "body": "Hesla založená na frázích",
+        "right": true
       }
     ]
   },
@@ -4391,6 +4399,297 @@
         "right": false
       }
     ]
+  },
+  {
+    "name": "Pro autentizaci v sítích GSM se používá:",
+    "answers": [
+      {
+        "body": "asymetrická kryptografie s protokolem RAND",
+        "right": false
+      },
+      {
+        "body": "dvoufaktorová autentizace – SIM a (nepovinný) PIN",
+        "right": true
+      },
+      {
+        "body": "jedno nebo dvoufaktorová autentizace podle nastavení PINu",
+        "right": true
+      },
+      {
+        "body": "Shamirův bezklíčový protokol",
+        "right": false
+      },
+      {
+        "body": "zero-knowledge protokol Fiat-Feige se čtyřmi faktory",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Úspěšnost hádání hesel hrubou silou:",
+    "answers": [
+      {
+        "body": "klesá s velikostí použité abecedy",
+        "right": true
+      },
+      {
+        "body": "záleží na zapamatovatelnosti a struktuře hesla",
+        "right": false
+      },
+      {
+        "body": "roste s dobou platnosti hesla",
+        "right": true
+      },
+      {
+        "body": "ovlivnil výzkum Zvirana & Hagy",
+        "right": false
+      },
+      {
+        "body": "klesá s délkou hesla",
+        "right": true
+      },
+      {
+        "body": "klesá s rostoucí rychlostí útočníkova počítače",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Offline verifikace karetní transakce:",
+    "answers": [
+      {
+        "body": "je zakalkulovaná v systému řízení rizik a provádí se pro snížení transakčních nákladů",
+        "right": true
+      },
+      {
+        "body": "se dnes již v bankomatech neprovádí",
+        "right": true
+      },
+      {
+        "body": "se za určitých podmínek provádí v PINpadu",
+        "right": true
+      },
+      {
+        "body": "vyžaduje přiblížení pasu s čipem podporujícím DDA k PINpadu",
+        "right": false
+      },
+      {
+        "body": "se používá jen v zemích Eurozóny (země platící eurem)",
+        "right": false
+      },
+      {
+        "body": "je povolena jen při biometrické autentizaci uživatele",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Terminologický nesmysl je:",
+    "answers": [
+      {
+        "body": "zajištění integrity dat pomocí hašovací funkce",
+        "right": false
+      },
+      {
+        "body": "kryptografické hašovací funkce mají být rychlé a jednosměrné",
+        "right": false
+      },
+      {
+        "body": "vodotisk hesla /etc/shadow",
+        "right": true
+      },
+      {
+        "body": "zaručený elektronický podpis založený na kvalifikovaném certifikátu",
+        "right": false
+      },
+      {
+        "body": "kryptace sdíleného souboru s ufopornem",
+        "right": true
+      },
+      {
+        "body": "kryptoanalýza zakryptovaného souboru",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro bezpečnostní úrovně modelu Bell-LaPadula L1=(TS,{obrana,ekonomika}) a L2=(S,{obrana}) platí:",
+    "answers": [
+      {
+        "body": "L1 a L2 jsou neporovnatelné",
+        "right": false
+      },
+      {
+        "body": "L1 dominuje L2",
+        "right": true
+      },
+      {
+        "body": "L2 dominuje L1",
+        "right": false
+      },
+      {
+        "body": "L1 a L2 jsou neporovnatelné, pokud neplatí exkluzivita *-vlastnosti",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Token s generátorem jednorázových hesel lze považovat za mechanismus dvoufaktorové autentizace:",
+    "answers": [
+      {
+        "body": "jen pokud se jím vygenerované heslo dá použít právě ve dvou autentizačních systémech",
+        "right": false
+      },
+      {
+        "body": "jen pokud se heslo generuje na základě dvou faktorizačních problémů",
+        "right": false
+      },
+      {
+        "body": "pokud se uživatel musí autentizovat vůči tokenu před jeho použitím svým heslem",
+        "right": true
+      },
+      {
+        "body": "pokud se uživatel musí autentizovat vůči tokenu před jeho použitím svým PINem",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Hybridní čipová karta",
+    "answers": [
+      {
+        "body": "pracuje se dvěma různými čipy",
+        "right": true
+      },
+      {
+        "body": "je nyní výhradní technologií pro bankovní karetní operace",
+        "right": false
+      },
+      {
+        "body": "poskytuje možnost komunikace přes kontaktní i bezkontaktní rozhraní",
+        "right": true
+      },
+      {
+        "body": "je založena na využití kombinace asymetrické a symetrické kryptografie",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Dodatečná autorizace citlivých/významných operací se provádí obvykle:",
+    "answers": [
+      {
+        "body": "autorizací této operace klíčem z kořenového certifikátu",
+        "right": false
+      },
+      {
+        "body": "reputačním systémem bankovního dozorce",
+        "right": false
+      },
+      {
+        "body": "odděleným (separátním) kanálem",
+        "right": true
+      },
+      {
+        "body": "s použitím dalšího autorizačního kroku",
+        "right": true
+      },
+      {
+        "body": "SSL certifikátem s tzv. extended validation (EV)",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Která z následujících tvrzení o čipových kartách jsou pravdivá?",
+    "answers": [
+      {
+        "body": "Bezkontaktní čipová karta potřebuje anténu pro komunikaci i získávání energie.",
+        "right": true
+      },
+      {
+        "body": "Komunikaci mezi čtečkou a bezkontaktní čipovou kartou lze odposlechnout.",
+        "right": true
+      },
+      {
+        "body": "Kontaktní čipová karta má vlastní zdroj energie a komunikuje se čtečkou přímo.",
+        "right": false
+      },
+      {
+        "body": "U bezkontaktní čipové karty je zajištěno autorizované smazání dat při výpadku napájecího napětí.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "PIN je",
+    "answers": [
+      {
+        "body": "s obvodním bankéřem sdílená informace",
+        "right": false
+      },
+      {
+        "body": "nejčastěji volen v hodnotách 1234, 0000, 0007 nebo 1111",
+        "right": true
+      },
+      {
+        "body": "doplňkovým bezpečnostním mechanismem pro operace s bankomatem",
+        "right": true
+      },
+      {
+        "body": "nastaven bankou jako haš hesla internetového bankovnictví",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Mezi techniky pro zajištění soukromí v autentizačních systémech patří:",
+    "answers": [
+      {
+        "body": "maskování prvních 5 bajtů strojově čitelné zóny elektronických pasů",
+        "right": false
+      },
+      {
+        "body": "pravidelná změna identifikátoru čipu",
+        "right": true
+      },
+      {
+        "body": "uložení podepsaných hašů do EF.SO_D elektronických pasů",
+        "right": false
+      },
+      {
+        "body": "pasivní rušení (Faradayova klec) čipu",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Úspěnost hádání hesel hrubou silou:",
+    "answers": [
+      {
+        "body": "klesá s dobou platnosti hesla",
+        "right": false
+      },
+      {
+        "body": "roste s velikostí použité abecedy",
+        "right": false
+      },
+      {
+        "body": "ovlivnil výzkum Needhama a Schroedera (2008)",
+        "right": false
+      },
+      {
+        "body": "lze u online útoků omezit procedurálně",
+        "right": true
+      },
+      {
+        "body": "klesá s délkou hesla",
+        "right": true
+      },
+      {
+        "body": "roste s rostoucí rychlostí útočníkova počítače",
+        "right": true
+      }
+    ]
   }
 ]
-
