@@ -4664,7 +4664,7 @@
     ]
   },
   {
-    "name": "Úspěnost hádání hesel hrubou silou:",
+    "name": "Úspěšnost hádání hesel hrubou silou:",
     "answers": [
       {
         "body": "klesá s dobou platnosti hesla",
