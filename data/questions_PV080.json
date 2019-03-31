@@ -1806,7 +1806,7 @@
       },
       {
         "body": "Proces identifikace je náročnější než proces verifikace.",
-        "right": false
+        "right": true
       }
     ]
   },
@@ -2490,7 +2490,7 @@
       },
       {
         "body": "Je na začátku práce v systému obvykle prováděna autentizace nebo identifikace.",
-        "right": false
+        "right": true
       },
       {
         "body": "Je prováděna archivace dat pro udržení schopnosti správy účtu.",
@@ -2959,7 +2959,7 @@
       },
       {
         "body": "zaslání důvěryhodným zprostředkovatelem.",
-        "right": false
+        "right": true
       }
     ]
   },
@@ -3466,7 +3466,7 @@
       },
       {
         "body": "Vyse trestu tem, kdo s daty neopravnene manipuluje.",
-        "right": false
+        "right": true
       },
       {
         "body": "Vyse trestu tem, kdo data hlidali a zajistili restriktivni manipulaci.",
@@ -3474,7 +3474,7 @@
       },
       {
         "body": "Vyse trestu tem, kdo data neohlidali a spolupodileli se na jejich uniku.",
-        "right": false
+        "right": true
       },
       {
         "body": "Kódovani dat.",
