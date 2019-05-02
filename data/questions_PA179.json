@@ -1,0 +1,1226 @@
+[
+  {
+    "name": "What are the main characteristics of a project?",
+    "answers": [
+      {
+        "body": "Temporary, Change driving, Uncertain, Unique",
+        "right": true
+      },
+      {
+        "body": "Repetitive, Stable, Linear, Event driven",
+        "right": false
+      },
+      {
+        "body": "Permanent, Simple, Flexible, Task driven",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "What are the usual dimensions of project manager’s triple constraint?",
+    "answers": [
+      {
+        "body": "Time, Cost, Scope",
+        "right": true
+      },
+      {
+        "body": "Risk, Quality, Procurement",
+        "right": false
+      },
+      {
+        "body": "Plan, Change, Progress",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "What is the aim of Project Portfolio?",
+    "answers": [
+      {
+        "body": "To add value to business",
+        "right": true
+      },
+      {
+        "body": "To fulfil strategic goals",
+        "right": true
+      },
+      {
+        "body": "To create a unique product",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "A process is best visualized with:",
+    "answers": [
+      {
+        "body": "Gantt chart.",
+        "right": false
+      },
+      {
+        "body": "Flow chart.",
+        "right": true
+      },
+      {
+        "body": "Use case diagram.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which PRINCE2 principle implies referring exceeded tolerances up next management level ?",
+    "answers": [
+      {
+        "body": "Continued business justification",
+        "right": false
+      },
+      {
+        "body": "Manage by stages",
+        "right": false
+      },
+      {
+        "body": "Manage by exceptions",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Which PRINCE2 theme addresses the need to identify stakeholders?",
+    "answers": [
+      {
+        "body": "Organization",
+        "right": true
+      },
+      {
+        "body": "Business Case",
+        "right": false
+      },
+      {
+        "body": "Progress",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which PRINCE2 process is dedicated to creating a Project Plan?",
+    "answers": [
+      {
+        "body": "Starting up a project",
+        "right": false
+      },
+      {
+        "body": "Initiating a project",
+        "right": true
+      },
+      {
+        "body": "Controlling a stage",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which of these is PRINCE2 suitable for?",
+    "answers": [
+      {
+        "body": "A project where comprehensive reporting is required",
+        "right": true
+      },
+      {
+        "body": "A project team that requires firm control",
+        "right": false
+      },
+      {
+        "body": "Entry-level project managers",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "PMBOK’s Knowledge areas include:",
+    "answers": [
+      {
+        "body": "Integration, Scope, Schedule, Cost",
+        "right": true
+      },
+      {
+        "body": "Quality, Communications, Risk, Procurement",
+        "right": true
+      },
+      {
+        "body": "Business Case, Process, Progress, Talent",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "In PMBOK, every process definition includes:",
+    "answers": [
+      {
+        "body": "Process inputs",
+        "right": true
+      },
+      {
+        "body": "Process tools and techniques",
+        "right": true
+      },
+      {
+        "body": "Process outputs",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "In PMBOK, which Knowledge area is dedicated to selecting and contracting outsourced products?",
+    "answers": [
+      {
+        "body": "Procurement",
+        "right": true
+      },
+      {
+        "body": "Scope",
+        "right": false
+      },
+      {
+        "body": "Communications",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "PMBOK is best used as:",
+    "answers": [
+      {
+        "body": "A step-by-step method to follow",
+        "right": false
+      },
+      {
+        "body": "A handbook on different knowledge areas",
+        "right": true
+      },
+      {
+        "body": "A guide to project manager’s competencies",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "A competence is an application of:",
+    "answers": [
+      {
+        "body": "Knowledge, skills and abilities",
+        "right": true
+      },
+      {
+        "body": "Wisdom, creativity and understanding",
+        "right": false
+      },
+      {
+        "body": "Intelligence, information and experience",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "ICB’s perspective competencies include:",
+    "answers": [
+      {
+        "body": "Quality, Change and transformation, Time",
+        "right": false
+      },
+      {
+        "body": "Governance structures and processes, Compliance standards and regulations, Strategy",
+        "right": true
+      },
+      {
+        "body": "Strategy, Power and interest, Culture and Values",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "ICB’s people competencies include:",
+    "answers": [
+      {
+        "body": "Personal communication, Conflict and crisis, Resourcefulness",
+        "right": true
+      },
+      {
+        "body": "Negotiation, Self-reflection and self-management, Teamwork",
+        "right": true
+      },
+      {
+        "body": "Leadership, Relations and engagement, Results orientation",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "What does ICB stand for?",
+    "answers": [
+      {
+        "body": "International Competence Baseline",
+        "right": false
+      },
+      {
+        "body": "Individual Competence Baseline",
+        "right": true
+      },
+      {
+        "body": "International Confidence Baseline",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "What are the specifics of IT projects?",
+    "answers": [
+      {
+        "body": "Stability of resources",
+        "right": false
+      },
+      {
+        "body": "Frequent unplanned requirements changes",
+        "right": false
+      },
+      {
+        "body": "Increased need for risk management",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "How is the ITIL Service Strategy process useful with regards to IT project management?",
+    "answers": [
+      {
+        "body": "It helps us understand what service we’re creating or substantially changing",
+        "right": true
+      },
+      {
+        "body": "It helps us determine who will run and monitor our project’s output",
+        "right": true
+      },
+      {
+        "body": "It helps us evaluate our project’s risks",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Why is spiral lifecycle model more suitable for SW development?",
+    "answers": [
+      {
+        "body": "It is iterative and thus allows for changes later in the project",
+        "right": true
+      },
+      {
+        "body": "It is straightforward and easy to implement",
+        "right": false
+      },
+      {
+        "body": "Spiral model is not suitable for SW development",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "What is typical in agile development?",
+    "answers": [
+      {
+        "body": "Thorough upfront planning",
+        "right": false
+      },
+      {
+        "body": "Focus on people",
+        "right": true
+      },
+      {
+        "body": "Focus on processes",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "What are the characteristics of UP?",
+    "answers": [
+      {
+        "body": "Risk driven",
+        "right": true
+      },
+      {
+        "body": "Iterative and incremental",
+        "right": true
+      },
+      {
+        "body": "Linear",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "What are the possible workflows of each iteration?",
+    "answers": [
+      {
+        "body": "Business Modelling, Analysis, Requirements and Design, Implementation, Test, Deployment",
+        "right": true
+      },
+      {
+        "body": "Business Modelling, Requirements, Implementation, Test, Deployment",
+        "right": false
+      },
+      {
+        "body": "Inception, Elaboration, Construction, Transition",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "The Elaboration phase’s goals are:",
+    "answers": [
+      {
+        "body": "Test operational capability",
+        "right": false
+      },
+      {
+        "body": "Collect requirements",
+        "right": true
+      },
+      {
+        "body": "Create baseline architecture",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Which type of UML diagram is most suitable for modelling requirements?",
+    "answers": [
+      {
+        "body": "Class diagram",
+        "right": false
+      },
+      {
+        "body": "Activity diagram",
+        "right": false
+      },
+      {
+        "body": "Use case diagram",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "What is the core responsibility of Scrum Master?",
+    "answers": [
+      {
+        "body": "Communication",
+        "right": false
+      },
+      {
+        "body": "Managing the SCRUM process",
+        "right": true
+      },
+      {
+        "body": "Delivering the product",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Who is responsible for items in Product Backlog?",
+    "answers": [
+      {
+        "body": "Product Owner",
+        "right": true
+      },
+      {
+        "body": "Scrum Master",
+        "right": false
+      },
+      {
+        "body": "Team of Developers",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "What are the characteristics of SPRINT?",
+    "answers": [
+      {
+        "body": "It should not be longer than one month",
+        "right": true
+      },
+      {
+        "body": "It ends with the release of usable increment",
+        "right": true
+      },
+      {
+        "body": "It includes development of all Product Backlog items",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "What is a SCRUM?",
+    "answers": [
+      {
+        "body": "Predictive SW development framework",
+        "right": false
+      },
+      {
+        "body": "Process that allows early delivery of a usable product",
+        "right": true
+      },
+      {
+        "body": "Iterative and incremental SW development framework.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "PRINCE2 is the right choice of standard when:",
+    "answers": [
+      {
+        "body": "Project manager needs comprehensive method to follow",
+        "right": true
+      },
+      {
+        "body": "The company’s culture requires comprehensive reporting",
+        "right": true
+      },
+      {
+        "body": "Bureaucratic overload is not welcome",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "SCRUM is the right choice of standard when:",
+    "answers": [
+      {
+        "body": "The managed team is distributed across various locations",
+        "right": false
+      },
+      {
+        "body": "Exact requirements are not known upfront",
+        "right": true
+      },
+      {
+        "body": "Time to market is key factor",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "IPMA is the right choice of standard when:",
+    "answers": [
+      {
+        "body": "The use of soft skills is crucial for the project’s success",
+        "right": true
+      },
+      {
+        "body": "Project manager has little experience",
+        "right": false
+      },
+      {
+        "body": "Project manager needs comprehensive method to follow",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "What needs to be taken into consideration when choosing appropriate standard for the project?",
+    "answers": [
+      {
+        "body": "Team experience, skills and collaboration",
+        "right": true
+      },
+      {
+        "body": "Project’s domain, scale and requirements",
+        "right": true
+      },
+      {
+        "body": "Advantages and limitations of the standard in consideration",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Which of these are principles of agile SW development?:",
+    "answers": [
+      {
+        "body": "Welcome changing requirements, even late in delivery",
+        "right": true
+      },
+      {
+        "body": "Always stick to the plan.",
+        "right": false
+      },
+      {
+        "body": "Build projects around motivated individuals",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Which approach is typical for agile project manager?",
+    "answers": [
+      {
+        "body": "Directive",
+        "right": false
+      },
+      {
+        "body": "Coaching",
+        "right": true
+      },
+      {
+        "body": "Bureaucratic",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which of these are usually included in Project charter?",
+    "answers": [
+      {
+        "body": "Detailed quality management plan",
+        "right": false
+      },
+      {
+        "body": "Product description",
+        "right": true
+      },
+      {
+        "body": "Business case",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Choose correct PDM relationship for this sequence of activities: „Testing of Component 1 cannot start until build of Component 1 has finished.“",
+    "answers": [
+      {
+        "body": "Start-to-start (SS)",
+        "right": false
+      },
+      {
+        "body": "Finish-to-finish (FF)",
+        "right": false
+      },
+      {
+        "body": "Finish-to-start (FS)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "What are common sources of risks?",
+    "answers": [
+      {
+        "body": "New technologies",
+        "right": true
+      },
+      {
+        "body": "Dependencies",
+        "right": true
+      },
+      {
+        "body": "New suppliers",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Which two dimensions are estimated when assessing risks?",
+    "answers": [
+      {
+        "body": "Duration and Quality",
+        "right": false
+      },
+      {
+        "body": "Probability and Impact",
+        "right": true
+      },
+      {
+        "body": "Responsibility and participation",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which of these are risk responses?",
+    "answers": [
+      {
+        "body": "Reduce",
+        "right": true
+      },
+      {
+        "body": "Transfer",
+        "right": true
+      },
+      {
+        "body": "Run",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "What do we do when transferring risks?",
+    "answers": [
+      {
+        "body": "Shift possible impact to a third party",
+        "right": true
+      },
+      {
+        "body": "Avoid risk completely",
+        "right": true
+      },
+      {
+        "body": "Nothing",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "What is Definition of Done?",
+    "answers": [
+      {
+        "body": "Everything that is required for Product backlog item or Increment completion.",
+        "right": true
+      },
+      {
+        "body": "Plan for the next Sprint.",
+        "right": false
+      },
+      {
+        "body": "Meeting held at the beginning of Sprint.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "What does a Burndown chart display?",
+    "answers": [
+      {
+        "body": "Remaining days of project.",
+        "right": false
+      },
+      {
+        "body": "Top 10 to-do for today.",
+        "right": false
+      },
+      {
+        "body": "Remaining work.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Why do we count Team velocity?",
+    "answers": [
+      {
+        "body": "To forecast how long it will take to deliver items from Sprint or Product backlog.",
+        "right": true
+      },
+      {
+        "body": "To better understand quality of the process.",
+        "right": true
+      },
+      {
+        "body": "To predict customer’s satisfaction.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which of these are built-in SCRUM measures for managing quality?",
+    "answers": [
+      {
+        "body": "Sprint retrospective",
+        "right": true
+      },
+      {
+        "body": "Definition of done",
+        "right": true
+      },
+      {
+        "body": "User stories",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "What is a user story?",
+    "answers": [
+      {
+        "body": "List of tasks to be done during the Sprint.",
+        "right": false
+      },
+      {
+        "body": "Description of a system feature.",
+        "right": true
+      },
+      {
+        "body": "A product-related report from the user.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "What are the advantages of adding acceptance criteria to User stories?",
+    "answers": [
+      {
+        "body": "They specify risks related to user story.",
+        "right": false
+      },
+      {
+        "body": "They help define User story implementation boundaries.",
+        "right": true
+      },
+      {
+        "body": "They serve as a baseline for functional testing.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "What are story points?",
+    "answers": [
+      {
+        "body": "A metric of potential team effort to implement a User story.",
+        "right": true
+      },
+      {
+        "body": "Benefit points for achieving estimated financial budget.",
+        "right": false
+      },
+      {
+        "body": "Agile tool for describing requirements.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "What should be considered when prioritizing the Product backlog?",
+    "answers": [
+      {
+        "body": "The amount of risk removed.",
+        "right": true
+      },
+      {
+        "body": "Value to customer.",
+        "right": true
+      },
+      {
+        "body": "What developers had for breakfast.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "What are the main outcomes of Sprint review meeting?",
+    "answers": [
+      {
+        "body": "Sprint Goal",
+        "right": false
+      },
+      {
+        "body": "One process improvement",
+        "right": false
+      },
+      {
+        "body": "Sprint Backlog",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "What is a Sprint goal?",
+    "answers": [
+      {
+        "body": "An aggregate contribution of developing current Sprint’s user stories",
+        "right": true
+      },
+      {
+        "body": "Total amount of team effort to fully implement a user story",
+        "right": false
+      },
+      {
+        "body": "Clear-language description of a system feature",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which of these questions are answered at Daily SCRUM meeting?",
+    "answers": [
+      {
+        "body": "What did I do yesterday?",
+        "right": true
+      },
+      {
+        "body": "Did I see any obstructions/ blocking issues?",
+        "right": true
+      },
+      {
+        "body": "What did I have for breakfast?",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Why does the team hold a Sprint Review?",
+    "answers": [
+      {
+        "body": "To review Product Backlog",
+        "right": true
+      },
+      {
+        "body": "To inspect Increment",
+        "right": true
+      },
+      {
+        "body": "To inspect current Sprint’s relationships",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which of these are conflict deescalation techniques?",
+    "answers": [
+      {
+        "body": "Make tasteless jokes",
+        "right": false
+      },
+      {
+        "body": "Act calm",
+        "right": true
+      },
+      {
+        "body": "Listen actively",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Which of these could be a consequence of adding an item to Product Backlog?",
+    "answers": [
+      {
+        "body": "Other feature will not get developed",
+        "right": true
+      },
+      {
+        "body": "Contract will have to be changed",
+        "right": false
+      },
+      {
+        "body": "Risk register will change",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "When is the product considered fully released?",
+    "answers": [
+      {
+        "body": "When all user stories from the Product Backlog have been implemented",
+        "right": false
+      },
+      {
+        "body": "With the release of last increment",
+        "right": false
+      },
+      {
+        "body": "At the end of last Sprint",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Why is Project Retrospective meeting being held?",
+    "answers": [
+      {
+        "body": "To plan for next project",
+        "right": false
+      },
+      {
+        "body": "To learn from successes and failures",
+        "right": true
+      },
+      {
+        "body": "To review a completed project",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "In PRINCE2, what is a Project Brief?",
+    "answers": [
+      {
+        "body": "A foundation document upon which the Project Board decides to proceed.",
+        "right": true
+      },
+      {
+        "body": "List of product requirements from the customer.",
+        "right": false
+      },
+      {
+        "body": "Short meeting at the beginning of the project.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which of these roles are a part of the Project Board?",
+    "answers": [
+      {
+        "body": "Senior user",
+        "right": true
+      },
+      {
+        "body": "Executive",
+        "right": true
+      },
+      {
+        "body": "QA Engineer",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "What needs to be taken into consideration when defining management approach?",
+    "answers": [
+      {
+        "body": "Project management standards",
+        "right": true
+      },
+      {
+        "body": "Corporate or programme strategies",
+        "right": true
+      },
+      {
+        "body": "External dependencies and prerequisites to the project",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "What needs to be defined in the Next stage plan?",
+    "answers": [
+      {
+        "body": "Milestones",
+        "right": true
+      },
+      {
+        "body": "Estimated duration of activities",
+        "right": true
+      },
+      {
+        "body": "Roles and responsibilities",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "What do we call the lowest level of Work Breakdown Structure?",
+    "answers": [
+      {
+        "body": "Unimportant deliverable",
+        "right": false
+      },
+      {
+        "body": "Work Package",
+        "right": true
+      },
+      {
+        "body": "User story",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "What is PERT?",
+    "answers": [
+      {
+        "body": "Technique for evaluating time effort",
+        "right": true
+      },
+      {
+        "body": "Technique for calculating critical path",
+        "right": false
+      },
+      {
+        "body": "Product description",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "What do we need to know about an activity in order to calculate Critical path?",
+    "answers": [
+      {
+        "body": "Start and end points",
+        "right": true
+      },
+      {
+        "body": "Dependencies",
+        "right": true
+      },
+      {
+        "body": "Responsibility",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which of these do we include in End stage report?",
+    "answers": [
+      {
+        "body": "Review of team performance",
+        "right": true
+      },
+      {
+        "body": "Detailed plan for next stage",
+        "right": false
+      },
+      {
+        "body": "Summary of current issues and risks",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "What are the advantages of planning a project around robust architecture?",
+    "answers": [
+      {
+        "body": "All major technical risks get resolved early",
+        "right": true
+      },
+      {
+        "body": "Organizing teams around architecture minimizes communication overload",
+        "right": true
+      },
+      {
+        "body": "There are no advantages to this approach",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "What is an exception plan?",
+    "answers": [
+      {
+        "body": "A plan that usually follows an Exception report",
+        "right": true
+      },
+      {
+        "body": "A plan of recovery from exceeded project’s tolerances",
+        "right": false
+      },
+      {
+        "body": "A report of current progress",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "According to PRINCE2, who manages the product delivery?",
+    "answers": [
+      {
+        "body": "Executive",
+        "right": false
+      },
+      {
+        "body": "Team manager",
+        "right": true
+      },
+      {
+        "body": "Configurations manager",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which of these project’s variables can be affected by a request for change?",
+    "answers": [
+      {
+        "body": "Time",
+        "right": true
+      },
+      {
+        "body": "Scope",
+        "right": true
+      },
+      {
+        "body": "Cost",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "What are the usual activities in UP’s Transition phase?",
+    "answers": [
+      {
+        "body": "Creating documentation",
+        "right": true
+      },
+      {
+        "body": "Beta testing with subset of users",
+        "right": true
+      },
+      {
+        "body": "Providing user’s training",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Which of these are included in End project report?",
+    "answers": [
+      {
+        "body": "Review of team performance",
+        "right": true
+      },
+      {
+        "body": "Benefits achieved to date",
+        "right": true
+      },
+      {
+        "body": "Summary of project performance",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "What is the purpose of lessons report?",
+    "answers": [
+      {
+        "body": "To embed positive lessons in the organization’s way of working",
+        "right": true
+      },
+      {
+        "body": "To test product features",
+        "right": false
+      },
+      {
+        "body": "To avoid negative experience in future projects",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Which of these activities are a part of a PRINCE2 Closing phase?",
+    "answers": [
+      {
+        "body": "Creating End project report",
+        "right": true
+      },
+      {
+        "body": "Requesting and obtaining Acceptance records",
+        "right": false
+      },
+      {
+        "body": "Planning the next project",
+        "right": false
+      }
+    ]
+  }
+]
