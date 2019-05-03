@@ -544,7 +544,7 @@
     ]
   },
   {
-    "name": "Which of these are principles of agile SW development?:",
+    "name": "Which of these are principles of agile SW development?",
     "answers": [
       {
         "body": "Welcome changing requirements, even late in delivery",
@@ -671,11 +671,11 @@
       },
       {
         "body": "Avoid risk completely",
-        "right": true
+        "right": false
       },
       {
         "body": "Nothing",
-        "right": true
+        "right": false
       }
     ]
   },
