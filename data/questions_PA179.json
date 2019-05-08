@@ -1113,7 +1113,7 @@
       },
       {
         "body": "A plan of recovery from exceeded project’s tolerances",
-        "right": false
+        "right": true
       },
       {
         "body": "A report of current progress",
@@ -1215,7 +1215,7 @@
       },
       {
         "body": "Requesting and obtaining Acceptance records",
-        "right": false
+        "right": true
       },
       {
         "body": "Planning the next project",
