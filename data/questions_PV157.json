@@ -4024,7 +4024,7 @@
     ]
   },
   {
-    "name": "Jaké vlastnosti má Shamirův protokol bez klíčů (ShamirÔÇÖs no-key protocol) ",
+    "name": "Jaké vlastnosti má Shamirův protokol bez klíčů (Shamir's no-key protocol) ",
     "answers": [
       {
         "body": "Nevyžaduje žádné ustavení sdílených klíčů",
