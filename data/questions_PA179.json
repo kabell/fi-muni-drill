@@ -297,11 +297,11 @@
       },
       {
         "body": "It helps us determine who will run and monitor our project’s output",
-        "right": true
+        "right": false
       },
       {
         "body": "It helps us evaluate our project’s risks",
-        "right": true
+        "right": false
       }
     ]
   },
